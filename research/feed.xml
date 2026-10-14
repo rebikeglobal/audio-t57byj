@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LJ 研究</title>
+    <link>https://rebikeglobal.github.io/audio-t57byj/research/</link>
+    <atom:link href="https://rebikeglobal.github.io/audio-t57byj/research/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>研究相關論文與筆記的語音版，僅供自己收聽。</description>
+    <language>zh-tw</language>
+    <itunes:author>LJ</itunes:author>
+    <itunes:owner><itunes:name>LJ</itunes:name></itunes:owner>
+    <itunes:image href="https://rebikeglobal.github.io/audio-t57byj/research/cover-v2.png"/>
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>[Cascade] 突觸如何用多個時間尺度延長記憶</title>
+      <description>Fusi, Drew &amp; Abbott（2005）Cascade model 講解：有界突觸為何指數遺忘、simple binary synapse 的 SNR 與記憶壽命 ln(q√N)/(qr)、initial SNR 與 lifetime 的兩難；Cascade 的 metaplastic depth 與等比轉移機率如何疊出約 1/t 的冪律遺忘、容量比較、與 Benna–Fusi 模型對照、限制，以及 Zenke &amp; Laborieux §3.3／Figure 5 的位置；最後介紹如何用 simulate_forgetting.py 動手驗證。</description>
+      <itunes:summary>Fusi, Drew &amp; Abbott（2005）Cascade model 講解：有界突觸為何指數遺忘、simple binary synapse 的 SNR 與記憶壽命 ln(q√N)/(qr)、initial SNR 與 lifetime 的兩難；Cascade 的 metaplastic depth 與等比轉移機率如何疊出約 1/t 的冪律遺忘、容量比較、與 Benna–Fusi 模型對照、限制，以及 Zenke &amp; Laborieux §3.3／Figure 5 的位置；最後介紹如何用 simulate_forgetting.py 動手驗證。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-14-cascade-model.mp3" length="13302380" type="audio/mpeg"/>
+      <guid isPermaLink="false">b5c8189a-e9df-4695-b2ab-5d60ee824db1</guid>
+      <pubDate>Wed, 14 Oct 2026 16:30:00 +0800</pubDate>
+      <itunes:duration>0:27:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Zenke 綜述] 初學者導讀</title>
+      <description>Zenke &amp; Laborieux（2024）《Theories of synaptic memory consolidation and intelligent plasticity for continual learning》的初學者導讀語音版：stability–plasticity dilemma、Hopfield capacity、metaplasticity、Cascade 與 Benna–Fusi complex synapse、SNR forgetting curve。</description>
+      <itunes:summary>Zenke &amp; Laborieux（2024）《Theories of synaptic memory consolidation and intelligent plasticity for continual learning》的初學者導讀語音版：stability–plasticity dilemma、Hopfield capacity、metaplasticity、Cascade 與 Benna–Fusi complex synapse、SNR forgetting curve。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-14-zenke-guide.mp3" length="33523436" type="audio/mpeg"/>
+      <guid isPermaLink="false">5aa5e136-0527-47b5-af7b-9808f4415a31</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0800</pubDate>
+      <itunes:duration>1:09:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>

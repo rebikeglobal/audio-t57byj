@@ -1,0 +1,16 @@
+[
+  {
+    "file": "2026-10-14-zenke-guide.mp3",
+    "title": "[Zenke 綜述] 初學者導讀",
+    "description": "Zenke & Laborieux（2024）《Theories of synaptic memory consolidation and intelligent plasticity for continual learning》的初學者導讀語音版：stability–plasticity dilemma、Hopfield capacity、metaplasticity、Cascade 與 Benna–Fusi complex synapse、SNR forgetting curve。",
+    "date": "2026-10-14",
+    "guid": "5aa5e136-0527-47b5-af7b-9808f4415a31"
+  },
+  {
+    "file": "2026-10-14-cascade-model.mp3",
+    "title": "[Cascade] 突觸如何用多個時間尺度延長記憶",
+    "description": "Fusi, Drew & Abbott（2005）Cascade model 講解：有界突觸為何指數遺忘、simple binary synapse 的 SNR 與記憶壽命 ln(q√N)/(qr)、initial SNR 與 lifetime 的兩難；Cascade 的 metaplastic depth 與等比轉移機率如何疊出約 1/t 的冪律遺忘、容量比較、與 Benna–Fusi 模型對照、限制，以及 Zenke & Laborieux §3.3／Figure 5 的位置；最後介紹如何用 simulate_forgetting.py 動手驗證。",
+    "date": "2026-10-14T16:30:00+08:00",
+    "guid": "b5c8189a-e9df-4695-b2ab-5d60ee824db1"
+  }
+]
