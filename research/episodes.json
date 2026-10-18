@@ -12,5 +12,40 @@
     "description": "Fusi, Drew & Abbott（2005）Cascade model 講解：有界突觸為何指數遺忘、simple binary synapse 的 SNR 與記憶壽命 ln(q√N)/(qr)、initial SNR 與 lifetime 的兩難；Cascade 的 metaplastic depth 與等比轉移機率如何疊出約 1/t 的冪律遺忘、容量比較、與 Benna–Fusi 模型對照、限制，以及 Zenke & Laborieux §3.3／Figure 5 的位置；最後介紹如何用 simulate_forgetting.py 動手驗證。",
     "date": "2026-10-14T16:30:00+08:00",
     "guid": "b5c8189a-e9df-4695-b2ab-5d60ee824db1"
+  },
+  {
+    "file": "2026-10-18-further-reading-00-roadmap.mp3",
+    "title": "延伸閱讀 0｜系列導覽：從記憶痕跡到抗遺忘演算法",
+    "description": "延伸閱讀系列導覽（約 4 分鐘）：四集由淺入深的順序與彼此關係——Engram、Synaptic tagging and capture、Benna & Fusi 燒杯模型、EWC 與 Synaptic Intelligence。建議依標題編號 0→4 收聽。",
+    "date": "2026-10-18T22:00:00+08:00",
+    "guid": "205d673e-909d-425d-96f5-6df887e0efb2"
+  },
+  {
+    "file": "2026-10-18-further-reading-01-engram.mp3",
+    "title": "延伸閱讀 1｜Engram：記憶存在哪裡",
+    "description": "依據 Josselyn & Tonegawa (2020) Science 綜述〈Memory engrams: Recalling the past and imagining the future〉：engram 的四類證據、興奮性競爭的 allocation、記憶連結、silent engram 與 systems consolidation。附三點回顧與自我小測驗。",
+    "date": "2026-10-18T22:01:00+08:00",
+    "guid": "ad458ee9-17e8-4408-b094-864ca58a367d"
+  },
+  {
+    "file": "2026-10-18-further-reading-02-tagging-capture.mp3",
+    "title": "延伸閱讀 2｜Synaptic tagging and capture：突觸怎麼決定要不要留下來",
+    "description": "依據 Frey & Morris (1997) Nature 與 Clopath, Ziegler, Vasilaki, Büsing & Gerstner (2008) PLoS Comput Biol 的 Tag-Trigger-Consolidation 模型：標記、蛋白質合成觸發門檻、雙穩態鞏固變數，以及「由神經元一起決定是否鞏固」。附自我小測驗。",
+    "date": "2026-10-18T22:02:00+08:00",
+    "guid": "75c54861-b11b-4015-815a-6f0b1f5712ff"
+  },
+  {
+    "file": "2026-10-18-further-reading-03-benna-fusi.mp3",
+    "title": "延伸閱讀 3｜Benna & Fusi：一串燒杯怎麼讓記憶活得更久",
+    "description": "依據 Benna & Fusi (2016) Nature Neuroscience〈Computational principles of synaptic memory consolidation〉：為何最慢只能 1/√t 遺忘、連通燒杯的三步驟、快慢變數雙向交流帶來近線性的容量、metaplasticity 與 spacing effect。附自我小測驗。",
+    "date": "2026-10-18T22:03:00+08:00",
+    "guid": "3740e746-4cc1-4cf5-b613-1965f5da6634"
+  },
+  {
+    "file": "2026-10-18-further-reading-04-ewc-si.mp3",
+    "title": "延伸閱讀 4｜EWC 與 Synaptic Intelligence：怎麼量一個權重有多重要",
+    "description": "依據 Kirkpatrick et al. (2017) PNAS 與 Zenke, Poole & Ganguli (2017) ICML：兩者共用「重要性加權的二次彈簧」骨架；EWC 用終點的 Fisher 對角線，SI 沿學習路徑線上累積功勞。比較兩者並連回生物鞏固。附自我小測驗。",
+    "date": "2026-10-18T22:04:00+08:00",
+    "guid": "cbf36257-d782-4b7f-bb9e-1686a97e17ba"
   }
 ]
