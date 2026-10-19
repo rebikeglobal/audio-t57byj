@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>延伸閱讀 5｜Serial model：一步一步走的突觸</title>
+      <description>同向往下、反向往上、最上層才翻轉的突觸，就是 serial model（linear chain）。為什麼它剛存的記憶幾乎讀不出來（初始 SNR 約 √N/M），卻又退得很慢（約 M² 步的擴散）？對照 cascade 與 Lahiri &amp; Ganguli 2013 的記憶上界。來源：Lahiri &amp; Ganguli 2013 NeurIPS；Leibold &amp; Kempter 2008 Cereb Cortex；Ben Dayan Rubin &amp; Fusi 2007；Fusi &amp; Abbott 2007；Barrett &amp; van Rossum 2008。</description>
+      <itunes:summary>同向往下、反向往上、最上層才翻轉的突觸，就是 serial model（linear chain）。為什麼它剛存的記憶幾乎讀不出來（初始 SNR 約 √N/M），卻又退得很慢（約 M² 步的擴散）？對照 cascade 與 Lahiri &amp; Ganguli 2013 的記憶上界。來源：Lahiri &amp; Ganguli 2013 NeurIPS；Leibold &amp; Kempter 2008 Cereb Cortex；Ben Dayan Rubin &amp; Fusi 2007；Fusi &amp; Abbott 2007；Barrett &amp; van Rossum 2008。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-19-further-reading-05-serial-model.mp3" length="8031212" type="audio/mpeg"/>
+      <guid isPermaLink="false">ac118fc4-b4ca-4385-84c0-6807ce23207f</guid>
+      <pubDate>Mon, 19 Oct 2026 13:45:00 +0800</pubDate>
+      <itunes:duration>0:16:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>延伸閱讀 4｜EWC 與 Synaptic Intelligence：怎麼量一個權重有多重要</title>
       <description>依據 Kirkpatrick et al. (2017) PNAS 與 Zenke, Poole &amp; Ganguli (2017) ICML：兩者共用「重要性加權的二次彈簧」骨架；EWC 用終點的 Fisher 對角線，SI 沿學習路徑線上累積功勞。比較兩者並連回生物鞏固。附自我小測驗。</description>
       <itunes:summary>依據 Kirkpatrick et al. (2017) PNAS 與 Zenke, Poole &amp; Ganguli (2017) ICML：兩者共用「重要性加權的二次彈簧」骨架；EWC 用終點的 Fisher 對角線，SI 沿學習路徑線上累積功勞。比較兩者並連回生物鞏固。附自我小測驗。</itunes:summary>
