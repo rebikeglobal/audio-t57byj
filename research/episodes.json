@@ -54,5 +54,40 @@
     "description": "同向往下、反向往上、最上層才翻轉的突觸，就是 serial model（linear chain）。為什麼它剛存的記憶幾乎讀不出來（初始 SNR 約 √N/M），卻又退得很慢（約 M² 步的擴散）？對照 cascade 與 Lahiri & Ganguli 2013 的記憶上界。來源：Lahiri & Ganguli 2013 NeurIPS；Leibold & Kempter 2008 Cereb Cortex；Ben Dayan Rubin & Fusi 2007；Fusi & Abbott 2007；Barrett & van Rossum 2008。",
     "date": "2026-10-19T13:45:00+08:00",
     "guid": "ac118fc4-b4ca-4385-84c0-6807ce23207f"
+  },
+  {
+    "file": "2026-10-19-further-reading-06-lahiri-ganguli-1.mp3",
+    "title": "延伸閱讀 6｜Lahiri & Ganguli（上）：用一個框架看所有突觸模型",
+    "description": "Lahiri & Ganguli (2013, NeurIPS) A memory frontier for complex synapses 導讀上集：Markov 突觸模型、SNR 與雜訊、初始 SNR 上界與面積上界、serial/cascade 的數字例子（自行計算部分已標示）。",
+    "date": "2026-10-19T20:50:00+08:00",
+    "guid": "b4f8ee41-0020-49f1-87ae-049ca88bb898"
+  },
+  {
+    "file": "2026-10-19-further-reading-07-lahiri-ganguli-2.mp3",
+    "title": "延伸閱讀 7｜Lahiri & Ganguli（下）：記憶前緣（memory frontier）",
+    "description": "Lahiri & Ganguli (2013) 導讀下集：記憶曲線的 envelope、壽命上界、Fig. 4 的數值最佳化與手工設計模型、開放問題（含附錄內容；自行計算部分已標示）。",
+    "date": "2026-10-19T20:52:00+08:00",
+    "guid": "5251cda9-4ee5-4c6e-91d6-1e1c6a27b80a"
+  },
+  {
+    "file": "2026-10-19-further-reading-08-hopfield.mp3",
+    "title": "延伸閱讀 8｜Hopfield network：網路怎麼把記憶叫回來",
+    "description": "Hopfield (1982, PNAS) 能量函數、非同步更新、約 0.15N 容量與訊雜比估算、截斷權重的 palimpsest；Amit-Gutfreund-Sompolinsky (1985)；modern Hopfield (Krotov & Hopfield 2016; Ramsauer et al. 2020)。自行模擬已標示。",
+    "date": "2026-10-19T20:54:00+08:00",
+    "guid": "decca488-3357-4bd7-b4ac-50563c3a7df3"
+  },
+  {
+    "file": "2026-10-19-further-reading-09-eval-benchmark.mp3",
+    "title": "延伸閱讀 9｜怎麼量遺忘：eval 與 benchmark",
+    "description": "理論模型的評估、Permuted/Split MNIST、Split CIFAR、三種 continual learning 情境 (van de Ven & Tolias 2019)、ACC/BWT/FWT (GEM)、forgetting measure (Chaudhry et al. 2018)、EWC/SI 的評估、LLM 微調遺忘 (TRACE 等)、Diehl & Cook (2015) 的評估。建議部分已標示。",
+    "date": "2026-10-19T20:56:00+08:00",
+    "guid": "19459114-b0c6-4359-b608-8c2ceb3d28ac"
+  },
+  {
+    "file": "2026-10-19-further-reading-10-latent-predictive-learning.mp3",
+    "title": "延伸閱讀 10｜Hebbian 加預測：學會不變的物體表徵",
+    "description": "Halvagal & Zenke (2023, Nature Neuroscience) latent predictive learning (LPL)：預測項、赫布項、去相關、與 BCM 的關係、深層網路與脈衝網路的評估、Li & DiCarlo 交換實驗、STDP 與 metaplasticity 預測。與突觸鞏固的連結為自行整理。",
+    "date": "2026-10-19T20:58:00+08:00",
+    "guid": "6700c9f1-a62e-4795-b7f7-ff5e083a722c"
   }
 ]
