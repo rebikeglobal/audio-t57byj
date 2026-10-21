@@ -14,6 +14,72 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>AI 從零開始 12｜無監督學習（五）：對比學習——拉近自己、推開別人</title>
+      <description>正樣本、負樣本、溫度與塌陷：SimCLR、MoCo、BYOL、Barlow Twins，對比學習模型與視覺皮質（Zhuang 2021），並預告 CLIP。</description>
+      <itunes:summary>正樣本、負樣本、溫度與塌陷：SimCLR、MoCo、BYOL、Barlow Twins，對比學習模型與視覺皮質（Zhuang 2021），並預告 CLIP。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-21-ai-foundations-12-contrastive-learning.mp3" length="11400044" type="audio/mpeg"/>
+      <guid isPermaLink="false">634467fa-e6a2-4521-a87d-ebd45b1a1222</guid>
+      <pubDate>Wed, 21 Oct 2026 23:12:00 +0800</pubDate>
+      <itunes:duration>0:23:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI 從零開始 11｜無監督學習（四）：自監督與預測學習</title>
+      <description>自己出題給自己考：word2vec、BERT、MAE，以及大腦的預測編碼（Rao &amp; Ballard 1999）、慢特徵學習與 mismatch negativity。</description>
+      <itunes:summary>自己出題給自己考：word2vec、BERT、MAE，以及大腦的預測編碼（Rao &amp; Ballard 1999）、慢特徵學習與 mismatch negativity。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-21-ai-foundations-11-self-supervised-predictive.mp3" length="10894700" type="audio/mpeg"/>
+      <guid isPermaLink="false">5a3c4877-304f-4c3f-8027-034182e218c1</guid>
+      <pubDate>Wed, 21 Oct 2026 23:11:00 +0800</pubDate>
+      <itunes:duration>0:22:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI 從零開始 10｜無監督學習（三）：autoencoder 與 sparse coding</title>
+      <description>壓縮再還原的 autoencoder、denoising autoencoder，以及 Olshausen &amp; Field 1996 的 sparse coding 如何長出類似 V1 的感受野。</description>
+      <itunes:summary>壓縮再還原的 autoencoder、denoising autoencoder，以及 Olshausen &amp; Field 1996 的 sparse coding 如何長出類似 V1 的感受野。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-21-ai-foundations-10-autoencoder-sparse-coding.mp3" length="10220972" type="audio/mpeg"/>
+      <guid isPermaLink="false">66ef8f90-c0b9-4a03-a9a0-ea5945617612</guid>
+      <pubDate>Wed, 21 Oct 2026 23:10:00 +0800</pubDate>
+      <itunes:duration>0:21:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI 從零開始 09｜無監督學習（二）：赫布學習與競爭學習</title>
+      <description>Hebb 規則、LTP、Oja 規則如何讓神經元做 PCA、競爭學習、Kohonen 自組織地圖、BCM，以及 STDP 加 winner-take-all（Diehl &amp; Cook 2015）。</description>
+      <itunes:summary>Hebb 規則、LTP、Oja 規則如何讓神經元做 PCA、競爭學習、Kohonen 自組織地圖、BCM，以及 STDP 加 winner-take-all（Diehl &amp; Cook 2015）。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-21-ai-foundations-09-hebbian-competitive.mp3" length="11022380" type="audio/mpeg"/>
+      <guid isPermaLink="false">cc9e5fd4-3dfa-41c5-850a-cddcdbc60fed</guid>
+      <pubDate>Wed, 21 Oct 2026 23:09:00 +0800</pubDate>
+      <itunes:duration>0:22:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI 從零開始 08｜無監督學習（一）：沒有答案也能學——分群與降維</title>
+      <description>沒有標籤也能學：k-means、PCA、t-SNE 與 UMAP，用小數字例子理解，並連到 spike sorting 與單細胞資料分析。</description>
+      <itunes:summary>沒有標籤也能學：k-means、PCA、t-SNE 與 UMAP，用小數字例子理解，並連到 spike sorting 與單細胞資料分析。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-21-ai-foundations-08-clustering-pca.mp3" length="11204972" type="audio/mpeg"/>
+      <guid isPermaLink="false">c7ba69cd-e7d7-4ac6-affc-98b9784f3b83</guid>
+      <pubDate>Wed, 21 Oct 2026 23:08:00 +0800</pubDate>
+      <itunes:duration>0:23:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI 從零開始 07｜注意力就是一切：attention 與 Transformer</title>
+      <description>從 seq2seq 的瓶頸講到 Bahdanau attention、Query/Key/Value、self-attention 與 Transformer（Vaswani 2017），以及 attention 與 modern Hopfield network 的關係（Ramsauer 2020）。</description>
+      <itunes:summary>從 seq2seq 的瓶頸講到 Bahdanau attention、Query/Key/Value、self-attention 與 Transformer（Vaswani 2017），以及 attention 與 modern Hopfield network 的關係（Ramsauer 2020）。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-21-ai-foundations-07-attention-transformer.mp3" length="10147244" type="audio/mpeg"/>
+      <guid isPermaLink="false">4a0faa00-6a84-4b82-a179-d751e5d4e4d7</guid>
+      <pubDate>Wed, 21 Oct 2026 23:07:00 +0800</pubDate>
+      <itunes:duration>0:21:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>AI 從零開始 06｜會記得前文的網路：RNN、LSTM 與 seq2seq</title>
       <description>隱藏狀態、時間反向傳播、梯度消失與爆炸、LSTM 的記憶輸送帶與三個閘門、seq2seq 翻譯。論文：Elman 1990、Hochreiter &amp; Schmidhuber 1997、Gers 等 2000、Sutskever 等 2014；工作記憶與前額葉持續活動。附小測驗。</description>
       <itunes:summary>隱藏狀態、時間反向傳播、梯度消失與爆炸、LSTM 的記憶輸送帶與三個閘門、seq2seq 翻譯。論文：Elman 1990、Hochreiter &amp; Schmidhuber 1997、Gers 等 2000、Sutskever 等 2014；工作記憶與前額葉持續活動。附小測驗。</itunes:summary>
