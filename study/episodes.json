@@ -201,5 +201,47 @@
     "description": "FLAN 指令微調、從人類偏好學獎勵（Christiano 2017）、InstructGPT 的三步驟與 KL 罰分、Goodhart 定律、DPO 與 Constitutional AI。",
     "date": "2026-10-21T23:18:00+08:00",
     "guid": "3a97c619-c050-4a59-8b5a-38d917b02955"
+  },
+  {
+    "file": "2026-10-21-ai-foundations-19-rl-td-dopamine.mp3",
+    "title": "AI 從零開始 19｜強化學習（一）：獎勵、價值與多巴胺",
+    "description": "強化學習的基本元素、價值與折扣、TD 學習（Sutton 1988）與 Q-learning、探索與利用，以及多巴胺神經元的獎勵預測誤差（Schultz 1997、Dabney 2020）。",
+    "date": "2026-10-21T23:19:00+08:00",
+    "guid": "f27916e3-ed90-478f-899a-618f084d8545"
+  },
+  {
+    "file": "2026-10-21-ai-foundations-20-deep-rl-alphago.mp3",
+    "title": "AI 從零開始 20｜強化學習（二）：DQN、policy gradient 與 AlphaGo",
+    "description": "DQN 的經驗重播與目標網路（Mnih 2015）、REINFORCE 與基準線、actor-critic 與 PPO、AlphaGo 與 AlphaGo Zero 的自我對弈，以及海馬迴重播。",
+    "date": "2026-10-21T23:20:00+08:00",
+    "guid": "5ba8791d-41a0-4809-af66-733c436696af"
+  },
+  {
+    "file": "2026-10-21-ai-foundations-21-multimodal-agents.mp3",
+    "title": "AI 從零開始 21｜前沿（一）：多模態與 agent——會看圖、會用工具的模型",
+    "description": "ViT、CLIP 的對比式圖文預訓練與零樣本分類、Flamingo 與 LLaVA、ReAct 與 Toolformer、間接提示注入，以及概念細胞與多模態神經元。",
+    "date": "2026-10-21T23:21:00+08:00",
+    "guid": "a28ac418-655a-4b17-9a22-283f2901d1c8"
+  },
+  {
+    "file": "2026-10-21-ai-foundations-22-reasoning-models.mp3",
+    "title": "AI 從零開始 22｜前沿（二）：會推理的模型——從「一步一步想」到 o1 與 DeepSeek-R1",
+    "description": "思考鏈與 zero-shot CoT、自我一致性、過程監督、推論時運算、o1 與 DeepSeek-R1 的強化學習與 GRPO，以及思考鏈的忠實度問題。",
+    "date": "2026-10-21T23:22:00+08:00",
+    "guid": "909fd8da-473a-4428-ae80-07c302babe2e"
+  },
+  {
+    "file": "2026-10-21-ai-foundations-23-brain-inspired-snn-continual.mp3",
+    "title": "AI 從零開始 23｜回到大腦：brain-inspired AI、SNN 與持續學習",
+    "description": "脈衝神經網路與替代梯度、神經形態晶片、災難性遺忘、EWC 與 SI、cascade 與 Benna–Fusi 多時間尺度突觸、互補學習系統與重播。",
+    "date": "2026-10-21T23:23:00+08:00",
+    "guid": "54ace991-0f48-46be-bd47-054afffe0291"
+  },
+  {
+    "file": "2026-10-21-ai-foundations-24-series-review.mp3",
+    "title": "AI 從零開始 24｜總複習：一張地圖看完現代 AI",
+    "description": "系列總複習：六條路線的地圖、目標函數／學習規則／架構三成分框架、五個常見誤解、開放問題，以及接下來的學習路線。",
+    "date": "2026-10-21T23:24:00+08:00",
+    "guid": "3dd97b3b-d1fb-464c-bc86-ac515b06f552"
   }
 ]
