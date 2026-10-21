@@ -159,5 +159,47 @@
     "description": "正樣本、負樣本、溫度與塌陷：SimCLR、MoCo、BYOL、Barlow Twins，對比學習模型與視覺皮質（Zhuang 2021），並預告 CLIP。",
     "date": "2026-10-21T23:12:00+08:00",
     "guid": "634467fa-e6a2-4521-a87d-ebd45b1a1222"
+  },
+  {
+    "file": "2026-10-21-ai-foundations-13-vae.mp3",
+    "title": "AI 從零開始 13｜生成式 AI（一）：生成模型是什麼、VAE",
+    "description": "生成模型學的是機率分布：VAE 的編碼雲、ELBO 與重參數化技巧（Kingma & Welling 2013）、β-VAE 解糾纏與獼猴臉區神經元（Higgins 2021），以及單細胞資料的 scVI。",
+    "date": "2026-10-21T23:13:00+08:00",
+    "guid": "a7bc1fd1-0288-46b0-a579-b4803777562f"
+  },
+  {
+    "file": "2026-10-21-ai-foundations-14-gan.mp3",
+    "title": "AI 從零開始 14｜生成式 AI（二）：GAN——偽鈔犯與驗鈔員",
+    "description": "生成器對判別器的賽局（Goodfellow 2014）、梯度飽和與模式崩塌、FID、DCGAN、StyleGAN、pix2pix 與 CycleGAN，以及「生成對抗的大腦」假說。",
+    "date": "2026-10-21T23:14:00+08:00",
+    "guid": "fc25d55e-719a-44f6-bb48-59b16c121089"
+  },
+  {
+    "file": "2026-10-21-ai-foundations-15-diffusion.mp3",
+    "title": "AI 從零開始 15｜生成式 AI（三）：diffusion model——從雜訊裡雕出圖片",
+    "description": "逐步加噪與去噪：Sohl-Dickstein 2015、DDPM、score、DDIM 加速、classifier-free guidance、latent diffusion，以及用擴散模型設計蛋白質（RFdiffusion）。",
+    "date": "2026-10-21T23:15:00+08:00",
+    "guid": "012b07ff-c1b6-43d7-8b2b-0532533f6157"
+  },
+  {
+    "file": "2026-10-21-ai-foundations-16-autoregressive-lm.mp3",
+    "title": "AI 從零開始 16｜生成式 AI（四）：自回歸語言模型——一次只猜下一個字",
+    "description": "從 Shannon 1951 猜字母、Bengio 2003 到 GPT-1/GPT-2；token 與 BPE、溫度與 top-p，以及大腦也在預測下一個字（Schrimpf 2021、Goldstein 2022）。",
+    "date": "2026-10-21T23:16:00+08:00",
+    "guid": "51221db5-4e0e-42f0-8fe6-7d348de81bde"
+  },
+  {
+    "file": "2026-10-21-ai-foundations-17-llm-scaling.mp3",
+    "title": "AI 從零開始 17｜LLM 與 scaling：越大越聰明？",
+    "description": "縮放定律（Kaplan 2020）、GPT-3 與 in-context learning、Chinchilla 的運算最佳分配、湧現能力是不是海市蜃樓，以及蛋白質語言模型 ESM-2。",
+    "date": "2026-10-21T23:17:00+08:00",
+    "guid": "cc1038f3-d139-40b9-8e92-cfa5f5f3d9b8"
+  },
+  {
+    "file": "2026-10-21-ai-foundations-18-instruction-tuning-rlhf.mp3",
+    "title": "AI 從零開始 18｜讓模型聽話：指令微調、RLHF 與 DPO",
+    "description": "FLAN 指令微調、從人類偏好學獎勵（Christiano 2017）、InstructGPT 的三步驟與 KL 罰分、Goodhart 定律、DPO 與 Constitutional AI。",
+    "date": "2026-10-21T23:18:00+08:00",
+    "guid": "3a97c619-c050-4a59-8b5a-38d917b02955"
   }
 ]
