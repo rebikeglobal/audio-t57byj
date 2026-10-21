@@ -14,6 +14,72 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>AI 從零開始 06｜會記得前文的網路：RNN、LSTM 與 seq2seq</title>
+      <description>隱藏狀態、時間反向傳播、梯度消失與爆炸、LSTM 的記憶輸送帶與三個閘門、seq2seq 翻譯。論文：Elman 1990、Hochreiter &amp; Schmidhuber 1997、Gers 等 2000、Sutskever 等 2014；工作記憶與前額葉持續活動。附小測驗。</description>
+      <itunes:summary>隱藏狀態、時間反向傳播、梯度消失與爆炸、LSTM 的記憶輸送帶與三個閘門、seq2seq 翻譯。論文：Elman 1990、Hochreiter &amp; Schmidhuber 1997、Gers 等 2000、Sutskever 等 2014；工作記憶與前額葉持續活動。附小測驗。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-21-ai-foundations-06-rnn-lstm.mp3" length="9733484" type="audio/mpeg"/>
+      <guid isPermaLink="false">904aef1e-ce39-4da0-a693-8b9505e3dcb1</guid>
+      <pubDate>Wed, 21 Oct 2026 23:06:00 +0800</pubDate>
+      <itunes:duration>0:20:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI 從零開始 05｜會看圖的網路：CNN 從 LeNet 到 ResNet</title>
+      <description>卷積、權重共享、池化、感受野與階層特徵。從 Hubel &amp; Wiesel 的簡單／複雜細胞、福島的 Neocognitron，到 LeNet-5、AlexNet 2012、ResNet 2015；Yamins 等 2014 用 CNN 預測猴子 V4 與 IT。附小測驗。</description>
+      <itunes:summary>卷積、權重共享、池化、感受野與階層特徵。從 Hubel &amp; Wiesel 的簡單／複雜細胞、福島的 Neocognitron，到 LeNet-5、AlexNet 2012、ResNet 2015；Yamins 等 2014 用 CNN 預測猴子 V4 與 IT。附小測驗。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-21-ai-foundations-05-cnn.mp3" length="9867692" type="audio/mpeg"/>
+      <guid isPermaLink="false">7163e7b6-737b-4388-91cf-0a13e8e14e13</guid>
+      <pubDate>Wed, 21 Oct 2026 23:05:00 +0800</pubDate>
+      <itunes:duration>0:20:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI 從零開始 04｜訓練的眉角：overfitting、regularization 與 optimizer</title>
+      <description>訓練／驗證／測試集、過擬合與欠擬合、weight decay、early stopping、資料擴增、dropout、momentum、Adam、學習率排程；EWC 其實是一種正則化。論文：Zhang 等 2017 隨機標籤、Srivastava 等 2014 Dropout、Kingma &amp; Ba Adam。附小測驗。</description>
+      <itunes:summary>訓練／驗證／測試集、過擬合與欠擬合、weight decay、early stopping、資料擴增、dropout、momentum、Adam、學習率排程；EWC 其實是一種正則化。論文：Zhang 等 2017 隨機標籤、Srivastava 等 2014 Dropout、Kingma &amp; Ba Adam。附小測驗。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-21-ai-foundations-04-training-practice.mp3" length="9701612" type="audio/mpeg"/>
+      <guid isPermaLink="false">a89ffa25-5453-45a3-8ed0-6ca865943759</guid>
+      <pubDate>Wed, 21 Oct 2026 23:04:00 +0800</pubDate>
+      <itunes:duration>0:20:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI 從零開始 03｜從一顆神經元到神經網路：backpropagation</title>
+      <description>McCulloch–Pitts 神經元、perceptron、XOR 與隱藏層、非線性與萬能逼近、反向傳播的連鎖律與數字例子、初始化與 ReLU。論文：Rumelhart, Hinton &amp; Williams 1986；Lillicrap 等 2016 feedback alignment 與權重運輸問題。附小測驗。</description>
+      <itunes:summary>McCulloch–Pitts 神經元、perceptron、XOR 與隱藏層、非線性與萬能逼近、反向傳播的連鎖律與數字例子、初始化與 ReLU。論文：Rumelhart, Hinton &amp; Williams 1986；Lillicrap 等 2016 feedback alignment 與權重運輸問題。附小測驗。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-21-ai-foundations-03-neural-nets-backprop.mp3" length="10234988" type="audio/mpeg"/>
+      <guid isPermaLink="false">87912c3e-933c-4b44-b1c3-fa1b6c0e0ba4</guid>
+      <pubDate>Wed, 21 Oct 2026 23:03:00 +0800</pubDate>
+      <itunes:duration>0:21:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI 從零開始 02｜一條直線學起：loss 與 gradient descent</title>
+      <description>線性模型、均方誤差、損失地形、梯度下降與學習率、隨機梯度下降、logistic regression 與 cross-entropy。論文：Widrow &amp; Hoff 1960 LMS 規則，以及與 Rescorla–Wagner 模型的對應。附小測驗。</description>
+      <itunes:summary>線性模型、均方誤差、損失地形、梯度下降與學習率、隨機梯度下降、logistic regression 與 cross-entropy。論文：Widrow &amp; Hoff 1960 LMS 規則，以及與 Rescorla–Wagner 模型的對應。附小測驗。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-21-ai-foundations-02-linear-gradient-descent.mp3" length="10134572" type="audio/mpeg"/>
+      <guid isPermaLink="false">9baf43b2-5a7a-44eb-9725-098da23d4e81</guid>
+      <pubDate>Wed, 21 Oct 2026 23:02:00 +0800</pubDate>
+      <itunes:duration>0:21:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI 從零開始 01｜機器到底怎麼學</title>
+      <description>AI 入門系列第一集：機器學習的四個零件（資料、模型、損失、最佳化）、監督式／無監督／強化／自監督學習、泛化與測試集、表徵。論文：Samuel 1959 跳棋程式、Mitchell 1997 定義、Doya 1999 三種學習與三個腦區。附小測驗。</description>
+      <itunes:summary>AI 入門系列第一集：機器學習的四個零件（資料、模型、損失、最佳化）、監督式／無監督／強化／自監督學習、泛化與測試集、表徵。論文：Samuel 1959 跳棋程式、Mitchell 1997 定義、Doya 1999 三種學習與三個腦區。附小測驗。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-21-ai-foundations-01-what-is-ml.mp3" length="11012204" type="audio/mpeg"/>
+      <guid isPermaLink="false">30165a73-7a25-4703-affb-af40f762f9d3</guid>
+      <pubDate>Wed, 21 Oct 2026 23:01:00 +0800</pubDate>
+      <itunes:duration>0:22:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>生化 Ch15：酵素調節（系統整理）</title>
       <description>酶原與同功酶、異位調節與 MWC/KNF 模型、磷酸化與 PKA、肝醣磷酸化酶與 cAMP 級聯、血紅素協同結合、Bohr 效應、2,3-BPG 與 HbF。</description>
       <itunes:summary>酶原與同功酶、異位調節與 MWC/KNF 模型、磷酸化與 PKA、肝醣磷酸化酶與 cAMP 級聯、血紅素協同結合、Bohr 效應、2,3-BPG 與 HbF。</itunes:summary>
