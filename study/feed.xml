@@ -14,6 +14,83 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>癌症生物學 07：Tumour Suppressors 2 抑癌基因（二）</title>
+      <description>p53 的發現與顯性負效應、MDM2 負回饋、ARF／ATM／AMPK 三種壓力路徑、p21 與 14-3-3σ、PUMA／Noxa、命運選擇、粒線體上的 p53、突變 p53 的功能獲得、Nutlin 與週期療法、全系列總結。含三題小測驗。</description>
+      <itunes:summary>p53 的發現與顯性負效應、MDM2 負回饋、ARF／ATM／AMPK 三種壓力路徑、p21 與 14-3-3σ、PUMA／Noxa、命運選擇、粒線體上的 p53、突變 p53 的功能獲得、Nutlin 與週期療法、全系列總結。含三題小測驗。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-22-cancer-biology-07-tumour-suppressors-2.mp3" length="5926124" type="audio/mpeg"/>
+      <guid isPermaLink="false">f5f032bd-c46e-4114-97bf-2decfc524272</guid>
+      <pubDate>Thu, 22 Oct 2026 17:07:00 +0800</pubDate>
+      <itunes:duration>0:12:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>癌症生物學 06：Apoptosis 細胞凋亡</title>
+      <description>caspase 起始型與執行型、線蟲 egl-1／ced-9／ced-4／ced-3 遺傳排序、果蠅 DIAP1、Fas 外在路徑、粒線體路徑與 Bcl-2 家族、凋亡體與 Smac、凋亡與癌症、自噬。含三題小測驗。</description>
+      <itunes:summary>caspase 起始型與執行型、線蟲 egl-1／ced-9／ced-4／ced-3 遺傳排序、果蠅 DIAP1、Fas 外在路徑、粒線體路徑與 Bcl-2 家族、凋亡體與 Smac、凋亡與癌症、自噬。含三題小測驗。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-22-cancer-biology-06-apoptosis.mp3" length="6063404" type="audio/mpeg"/>
+      <guid isPermaLink="false">107937e9-7a77-4cd9-b815-479dbc88001d</guid>
+      <pubDate>Thu, 22 Oct 2026 17:06:00 +0800</pubDate>
+      <itunes:duration>0:12:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>癌症生物學 05：Tumour Suppressors 1 抑癌基因（一）</title>
+      <description>細胞融合實驗、Knudson 二次打擊與 LOH、Krev 與病毒結合蛋白、抑癌基因的失活方式、WT-1／NF1／PTEN／BRCA、pRB 磷酸化與 E2F 正回饋開關。含三題小測驗。</description>
+      <itunes:summary>細胞融合實驗、Knudson 二次打擊與 LOH、Krev 與病毒結合蛋白、抑癌基因的失活方式、WT-1／NF1／PTEN／BRCA、pRB 磷酸化與 E2F 正回饋開關。含三題小測驗。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-22-cancer-biology-05-tumour-suppressors-1.mp3" length="5463596" type="audio/mpeg"/>
+      <guid isPermaLink="false">d0771176-3580-4a91-8098-7178eb59f302</guid>
+      <pubDate>Thu, 22 Oct 2026 17:05:00 +0800</pubDate>
+      <itunes:duration>0:11:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>癌症生物學 04：Oncogenes 2 致癌基因（二）</title>
+      <description>Fos、Jun 與 AP-1、Myc／Max／Mad、cyclin D 與 Cdk4 R24C、胰臟癌核心路徑、myc 與 ras 的合作、標靶治療：Herceptin、Gleevec 與抗藥性、合併療法。含三題小測驗。</description>
+      <itunes:summary>Fos、Jun 與 AP-1、Myc／Max／Mad、cyclin D 與 Cdk4 R24C、胰臟癌核心路徑、myc 與 ras 的合作、標靶治療：Herceptin、Gleevec 與抗藥性、合併療法。含三題小測驗。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-22-cancer-biology-04-oncogenes-2.mp3" length="4997996" type="audio/mpeg"/>
+      <guid isPermaLink="false">f791602c-b810-455e-8d92-c50ef205b145</guid>
+      <pubDate>Thu, 22 Oct 2026 17:04:00 +0800</pubDate>
+      <itunes:duration>0:10:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>癌症生物學 03：Oncogenes 1 致癌基因（一）</title>
+      <description>致癌基因與原致癌基因、四種活化方式、第一類與第二類反轉錄病毒、轉染試驗、易位與擴增、訊號路徑每一層的致癌基因、Src 的自我抑制、Ras 開關與 G12 熱點。含三題小測驗。</description>
+      <itunes:summary>致癌基因與原致癌基因、四種活化方式、第一類與第二類反轉錄病毒、轉染試驗、易位與擴增、訊號路徑每一層的致癌基因、Src 的自我抑制、Ras 開關與 G12 熱點。含三題小測驗。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-22-cancer-biology-03-oncogenes-1.mp3" length="5439212" type="audio/mpeg"/>
+      <guid isPermaLink="false">32661556-498d-4699-b221-0c9622e4061d</guid>
+      <pubDate>Thu, 22 Oct 2026 17:03:00 +0800</pubDate>
+      <itunes:duration>0:11:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>癌症生物學 02：Cell Cycle Control 細胞週期調控</title>
+      <description>生長因子與限制點、G0、轉形細胞特徵、RTK 二聚化與自體磷酸化、SH2 停靠、Ras–MAPK 與 PI3K–Akt 路徑、路徑合作實驗、cyclin–Cdk 與 Rb、INK4 與 Cip/Kip。含三題小測驗。</description>
+      <itunes:summary>生長因子與限制點、G0、轉形細胞特徵、RTK 二聚化與自體磷酸化、SH2 停靠、Ras–MAPK 與 PI3K–Akt 路徑、路徑合作實驗、cyclin–Cdk 與 Rb、INK4 與 Cip/Kip。含三題小測驗。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-22-cancer-biology-02-cell-cycle-control.mp3" length="5823788" type="audio/mpeg"/>
+      <guid isPermaLink="false">ccf4e882-1ad1-4c53-bc5f-b8ad7312e812</guid>
+      <pubDate>Thu, 22 Oct 2026 17:02:00 +0800</pubDate>
+      <itunes:duration>0:12:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>癌症生物學 01：Cancer Introduction 癌症導論</title>
+      <description>原發與轉移腫瘤、流行病學、多步驟致癌、致癌基因 vs 抑癌基因、八個 hallmarks、克隆演化與驅動／乘客突變、Warburg 效應、端粒與永生化、血管新生與 EMT。含三題小測驗。</description>
+      <itunes:summary>原發與轉移腫瘤、流行病學、多步驟致癌、致癌基因 vs 抑癌基因、八個 hallmarks、克隆演化與驅動／乘客突變、Warburg 效應、端粒與永生化、血管新生與 EMT。含三題小測驗。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-10-22-cancer-biology-01-cancer-intro.mp3" length="5344748" type="audio/mpeg"/>
+      <guid isPermaLink="false">fa63ad25-07b0-4812-987e-29b514a66549</guid>
+      <pubDate>Thu, 22 Oct 2026 17:01:00 +0800</pubDate>
+      <itunes:duration>0:11:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>AI 從零開始 24｜總複習：一張地圖看完現代 AI</title>
       <description>系列總複習：六條路線的地圖、目標函數／學習規則／架構三成分框架、五個常見誤解、開放問題，以及接下來的學習路線。</description>
       <itunes:summary>系列總複習：六條路線的地圖、目標函數／學習規則／架構三成分框架、五個常見誤解、開放問題，以及接下來的學習路線。</itunes:summary>
