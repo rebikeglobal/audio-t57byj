@@ -14,6 +14,28 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>延伸閱讀 12｜MER：讓梯度朝同一個方向划</title>
+      <description>依據 Riemer et al. (2019, ICLR) Meta-Experience Replay：transfer／interference 即梯度內積的正負、不共享參數則內積為零、損失減內積的理想目標、蓄水池重播＋每批一例的 Reptile 如何近似、RA／LA／BTI 與 GEM 指標的對應、平均梯度內積由負轉正、消融實驗顯示主要進步來自重播，以及與 Benna &amp; Fusi 訊號的對照（自行整理部分已標示）。約 21 分鐘。</description>
+      <itunes:summary>依據 Riemer et al. (2019, ICLR) Meta-Experience Replay：transfer／interference 即梯度內積的正負、不共享參數則內積為零、損失減內積的理想目標、蓄水池重播＋每批一例的 Reptile 如何近似、RA／LA／BTI 與 GEM 指標的對應、平均梯度內積由負轉正、消融實驗顯示主要進步來自重播，以及與 Benna &amp; Fusi 訊號的對照（自行整理部分已標示）。約 21 分鐘。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-31-further-reading-12-mer.mp3" length="10098284" type="audio/mpeg"/>
+      <guid isPermaLink="false">e9197fdd-2812-4159-9e5d-30839736db25</guid>
+      <pubDate>Sat, 31 Oct 2026 11:51:00 +0800</pubDate>
+      <itunes:duration>0:21:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>延伸閱讀 11｜GEM：持續學習的成績單，和不准打架的梯度</title>
+      <description>依據 Lopez-Paz &amp; Ranzato (2017, NeurIPS) Gradient Episodic Memory：R 矩陣與 ACC／BWT／FWT 的定義與三任務手算、為什麼 FWT 不等於學習速度（用附錄矩陣重算佐證）、用新舊梯度內積判斷干擾並投影到最近的安全方向、允許正的向後遷移、MNIST／CIFAR100 實驗結果，以及附錄數字除以 T 而非 T−1 等兩處不一致（自行計算部分已標示）。約 21 分鐘。</description>
+      <itunes:summary>依據 Lopez-Paz &amp; Ranzato (2017, NeurIPS) Gradient Episodic Memory：R 矩陣與 ACC／BWT／FWT 的定義與三任務手算、為什麼 FWT 不等於學習速度（用附錄矩陣重算佐證）、用新舊梯度內積判斷干擾並投影到最近的安全方向、允許正的向後遷移、MNIST／CIFAR100 實驗結果，以及附錄數字除以 T 而非 T−1 等兩處不一致（自行計算部分已標示）。約 21 分鐘。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-31-further-reading-11-gem.mp3" length="10250732" type="audio/mpeg"/>
+      <guid isPermaLink="false">8e72eace-643f-437f-b0e6-64cec4472b92</guid>
+      <pubDate>Sat, 31 Oct 2026 11:50:00 +0800</pubDate>
+      <itunes:duration>0:21:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>延伸閱讀 10｜Hebbian 加預測：學會不變的物體表徵</title>
       <description>Halvagal &amp; Zenke (2023, Nature Neuroscience) latent predictive learning (LPL)：預測項、赫布項、去相關、與 BCM 的關係、深層網路與脈衝網路的評估、Li &amp; DiCarlo 交換實驗、STDP 與 metaplasticity 預測。與突觸鞏固的連結為自行整理。</description>
       <itunes:summary>Halvagal &amp; Zenke (2023, Nature Neuroscience) latent predictive learning (LPL)：預測項、赫布項、去相關、與 BCM 的關係、深層網路與脈衝網路的評估、Li &amp; DiCarlo 交換實驗、STDP 與 metaplasticity 預測。與突觸鞏固的連結為自行整理。</itunes:summary>
