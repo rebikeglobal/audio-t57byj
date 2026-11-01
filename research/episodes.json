@@ -124,5 +124,12 @@
     "description": "導讀 Allred 與 Roy 2020 年 Frontiers in Neuroscience 論文〈Controlled Forgetting〉：STDP 脈衝網路依序學習的兩種失敗、偵測新東西的多巴胺神經元、學習率跳到一的一次學習、挑最少用神經元的多巴胺權重、閾值與夾角的關係、依序學 0 到 9 的結果與要小心的比較，以及自製小玩具（自行整理部分已標示）。約 23 分鐘。",
     "date": "2026-11-01T15:21:00+08:00",
     "guid": "f79b4e5b-52c0-4d59-b16d-014514614592"
+  },
+  {
+    "file": "2026-11-01-further-reading-16-jepa.mp3",
+    "title": "延伸閱讀 16｜JEPA：不畫像素，在抽象空間裡預測世界",
+    "description": "導讀 LeCun 2022 的世界模型藍圖，以及 I-JEPA、V-JEPA、V-JEPA 2：為什麼在表徵空間預測而不是畫像素、怎麼防止崩塌（EMA 與 stop-gradient）、遮罩設計，以及從圖片、影片到機器手臂規劃的主要結果與限制。約 17 分鐘。",
+    "date": "2026-11-01T22:50:30+08:00",
+    "guid": "13aa69b4-6e89-4155-a90d-018456eeabb8"
   }
 ]
