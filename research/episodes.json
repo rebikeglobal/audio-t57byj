@@ -110,5 +110,19 @@
     "description": "導讀 Laborieux 等人 2021 年 Nature Communications 論文〈Synaptic metaplasticity in binarized neural networks〉：二值化網路的隱藏權重、f_meta 只減弱「往零走」的更新、打亂手寫數字與 CIFAR 實驗、串流學習、二次函數任務的定理，以及與 Cascade、Benna–Fusi 模型的對照。",
     "date": "2026-11-01T14:29:42+08:00",
     "guid": "4202037c-fe83-4f23-aad6-17c732036bd3"
+  },
+  {
+    "file": "2026-11-01-further-reading-14-three-types.mp3",
+    "title": "延伸閱讀 14｜三種持續學習：為什麼 EWC 在某些場景會全軍覆沒",
+    "description": "導讀 van de Ven、Tuytelaars 與 Tolias 2022 年 Nature Machine Intelligence 論文〈Three types of incremental learning〉：用兩個問題分出 Task-IL、Domain-IL、Class-IL，「什麼都不做」在 Class-IL 為何約百分之二十，五類策略的公平比較，EWC／SI 在 Class-IL 幾乎完全失敗而重播與模板分類撐住的原因，以及沒有任務邊界的資料流（自行整理部分已標示）。約 21 分鐘。",
+    "date": "2026-11-01T15:20:00+08:00",
+    "guid": "816a7d3f-6b40-4990-9ad0-4634b042271f"
+  },
+  {
+    "file": "2026-11-01-further-reading-15-controlled-forgetting.mp3",
+    "title": "延伸閱讀 15｜Controlled Forgetting：讓脈衝網路自己決定忘什麼",
+    "description": "導讀 Allred 與 Roy 2020 年 Frontiers in Neuroscience 論文〈Controlled Forgetting〉：STDP 脈衝網路依序學習的兩種失敗、偵測新東西的多巴胺神經元、學習率跳到一的一次學習、挑最少用神經元的多巴胺權重、閾值與夾角的關係、依序學 0 到 9 的結果與要小心的比較，以及自製小玩具（自行整理部分已標示）。約 23 分鐘。",
+    "date": "2026-11-01T15:21:00+08:00",
+    "guid": "f79b4e5b-52c0-4d59-b16d-014514614592"
   }
 ]
