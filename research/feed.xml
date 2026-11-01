@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>延伸閱讀 13｜Metaplasticity：越確定的突觸越難改</title>
+      <description>導讀 Laborieux 等人 2021 年 Nature Communications 論文〈Synaptic metaplasticity in binarized neural networks〉：二值化網路的隱藏權重、f_meta 只減弱「往零走」的更新、打亂手寫數字與 CIFAR 實驗、串流學習、二次函數任務的定理，以及與 Cascade、Benna–Fusi 模型的對照。</description>
+      <itunes:summary>導讀 Laborieux 等人 2021 年 Nature Communications 論文〈Synaptic metaplasticity in binarized neural networks〉：二值化網路的隱藏權重、f_meta 只減弱「往零走」的更新、打亂手寫數字與 CIFAR 實驗、串流學習、二次函數任務的定理，以及與 Cascade、Benna–Fusi 模型的對照。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-01-further-reading-13-metaplasticity.mp3" length="13040876" type="audio/mpeg"/>
+      <guid isPermaLink="false">4202037c-fe83-4f23-aad6-17c732036bd3</guid>
+      <pubDate>Sun, 01 Nov 2026 14:29:42 +0800</pubDate>
+      <itunes:duration>0:27:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>延伸閱讀 12｜MER：讓梯度朝同一個方向划</title>
       <description>依據 Riemer et al. (2019, ICLR) Meta-Experience Replay：transfer／interference 即梯度內積的正負、不共享參數則內積為零、損失減內積的理想目標、蓄水池重播＋每批一例的 Reptile 如何近似、RA／LA／BTI 與 GEM 指標的對應、平均梯度內積由負轉正、消融實驗顯示主要進步來自重播，以及與 Benna &amp; Fusi 訊號的對照（自行整理部分已標示）。約 21 分鐘。</description>
       <itunes:summary>依據 Riemer et al. (2019, ICLR) Meta-Experience Replay：transfer／interference 即梯度內積的正負、不共享參數則內積為零、損失減內積的理想目標、蓄水池重播＋每批一例的 Reptile 如何近似、RA／LA／BTI 與 GEM 指標的對應、平均梯度內積由負轉正、消融實驗顯示主要進步來自重播，以及與 Benna &amp; Fusi 訊號的對照（自行整理部分已標示）。約 21 分鐘。</itunes:summary>

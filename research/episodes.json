@@ -103,5 +103,12 @@
     "description": "依據 Riemer et al. (2019, ICLR) Meta-Experience Replay：transfer／interference 即梯度內積的正負、不共享參數則內積為零、損失減內積的理想目標、蓄水池重播＋每批一例的 Reptile 如何近似、RA／LA／BTI 與 GEM 指標的對應、平均梯度內積由負轉正、消融實驗顯示主要進步來自重播，以及與 Benna & Fusi 訊號的對照（自行整理部分已標示）。約 21 分鐘。",
     "date": "2026-10-31T11:51:00+08:00",
     "guid": "e9197fdd-2812-4159-9e5d-30839736db25"
+  },
+  {
+    "file": "2026-11-01-further-reading-13-metaplasticity.mp3",
+    "title": "延伸閱讀 13｜Metaplasticity：越確定的突觸越難改",
+    "description": "導讀 Laborieux 等人 2021 年 Nature Communications 論文〈Synaptic metaplasticity in binarized neural networks〉：二值化網路的隱藏權重、f_meta 只減弱「往零走」的更新、打亂手寫數字與 CIFAR 實驗、串流學習、二次函數任務的定理，以及與 Cascade、Benna–Fusi 模型的對照。",
+    "date": "2026-11-01T14:29:42+08:00",
+    "guid": "4202037c-fe83-4f23-aad6-17c732036bd3"
   }
 ]
