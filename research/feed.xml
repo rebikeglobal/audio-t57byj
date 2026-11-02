@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>延伸閱讀 17｜iCaRL：存幾張代表圖，用模板來分類</title>
+      <description>iCaRL 怎麼在固定記憶體下每類存幾張代表圖，用「離哪個平均最近」分類，避開偏向新類別的問題。</description>
+      <itunes:summary>iCaRL 怎麼在固定記憶體下每類存幾張代表圖，用「離哪個平均最近」分類，避開偏向新類別的問題。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-02-further-reading-17-icarl.mp3" length="8725100" type="audio/mpeg"/>
+      <guid isPermaLink="false">6f0c9e8e-bfe5-4215-bc36-7d5b50d8ba5f</guid>
+      <pubDate>Mon, 02 Nov 2026 21:16:04 +0800</pubDate>
+      <itunes:duration>0:18:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>延伸閱讀 16｜JEPA：不畫像素，在抽象空間裡預測世界</title>
       <description>導讀 LeCun 2022 的世界模型藍圖，以及 I-JEPA、V-JEPA、V-JEPA 2：為什麼在表徵空間預測而不是畫像素、怎麼防止崩塌（EMA 與 stop-gradient）、遮罩設計，以及從圖片、影片到機器手臂規劃的主要結果與限制。約 17 分鐘。</description>
       <itunes:summary>導讀 LeCun 2022 的世界模型藍圖，以及 I-JEPA、V-JEPA、V-JEPA 2：為什麼在表徵空間預測而不是畫像素、怎麼防止崩塌（EMA 與 stop-gradient）、遮罩設計，以及從圖片、影片到機器手臂規劃的主要結果與限制。約 17 分鐘。</itunes:summary>
