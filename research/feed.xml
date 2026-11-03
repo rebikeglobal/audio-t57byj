@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>延伸閱讀 19｜重症肌無力的機器學習全景：AUC 很高，為什麼還不能上線</title>
+      <description>一篇系統性回顧，檢查 11 篇 MG 機器學習研究：PROBAST、外部驗證的等級、校準，以及 AUC 0.944 背後的時間切分。</description>
+      <itunes:summary>一篇系統性回顧，檢查 11 篇 MG 機器學習研究：PROBAST、外部驗證的等級、校準，以及 AUC 0.944 背後的時間切分。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-04-further-reading-19-mg-ml-review.mp3" length="5862188" type="audio/mpeg"/>
+      <guid isPermaLink="false">af745a09-480d-4f8c-960c-7d5f413abb5e</guid>
+      <pubDate>Wed, 04 Nov 2026 01:41:00 +0800</pubDate>
+      <itunes:duration>0:12:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>延伸閱讀 18｜重症肌無力入門：抗體怎麼堵住神經和肌肉之間的信箱</title>
       <description>從神經肌肉接頭的安全係數講起：AChR、MuSK、LRP4 抗體，胸腺，診斷與量表，肌無力危象，以及補體、FcRn、B 細胞與 CAR-T 等新治療。</description>
       <itunes:summary>從神經肌肉接頭的安全係數講起：AChR、MuSK、LRP4 抗體，胸腺，診斷與量表，肌無力危象，以及補體、FcRn、B 細胞與 CAR-T 等新治療。</itunes:summary>
