@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>延伸閱讀 21｜MGTX 血清蛋白質體：預測誰適合開胸腺，和一個藏起來的陷阱</title>
+      <description>用胸腺切除試驗的血清蛋白質體預測治療反應，並拆解特徵篩選洩漏：為什麼巢狀交叉驗證也擋不住它。</description>
+      <itunes:summary>用胸腺切除試驗的血清蛋白質體預測治療反應，並拆解特徵篩選洩漏：為什麼巢狀交叉驗證也擋不住它。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-04-further-reading-21-mgtx-proteomics.mp3" length="5923244" type="audio/mpeg"/>
+      <guid isPermaLink="false">e6ed302a-b366-4861-bd19-95f2288569d7</guid>
+      <pubDate>Wed, 04 Nov 2026 01:43:00 +0800</pubDate>
+      <itunes:duration>0:12:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>延伸閱讀 20｜MyaLink：用手錶、肺量計和手機，提早幾天看到重症肌無力惡化</title>
       <description>穿戴裝置加病人自評的惡化預測：惡化前模板、相似度加權、留一人交叉驗證，和用每週誤報數畫的 ROC。</description>
       <itunes:summary>穿戴裝置加病人自評的惡化預測：惡化前模板、相似度加權、留一人交叉驗證，和用每週誤報數畫的 ROC。</itunes:summary>
