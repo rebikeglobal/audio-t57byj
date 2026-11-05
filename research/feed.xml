@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>延伸閱讀 24｜CLS-ER：學得快，也學得慢</title>
+      <description>用一快一慢兩個影子模型加上 replay，把互補學習系統理論搬進持續學習。</description>
+      <itunes:summary>用一快一慢兩個影子模型加上 replay，把互補學習系統理論搬進持續學習。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-24-cls-er.mp3" length="3258668" type="audio/mpeg"/>
+      <guid isPermaLink="false">8c66f387-9c4e-4e3b-a9ed-72a142be074e</guid>
+      <pubDate>Thu, 05 Nov 2026 18:40:00 +0800</pubDate>
+      <itunes:duration>0:06:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>延伸閱讀 23｜GPT 把事實存在哪裡：ROME</title>
       <description>因果追蹤找到中間層 MLP，再用秩一更新改寫一個事實（Meng 等 2022）</description>
       <itunes:summary>因果追蹤找到中間層 MLP，再用秩一更新改寫一個事實（Meng 等 2022）</itunes:summary>
