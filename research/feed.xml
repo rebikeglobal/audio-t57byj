@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>延伸閱讀 28｜銳波漣漪：海馬迴在睡覺時重播什麼</title>
+      <description>銳波漣漪的產生機制、壓縮重播，以及截斷漣漪會傷害記憶的因果證據。</description>
+      <itunes:summary>銳波漣漪的產生機制、壓縮重播，以及截斷漣漪會傷害記憶的因果證據。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-28-swr.mp3" length="3286508" type="audio/mpeg"/>
+      <guid isPermaLink="false">1ed25738-a807-406d-a220-072de54b28d3</guid>
+      <pubDate>Thu, 05 Nov 2026 21:03:00 +0800</pubDate>
+      <itunes:duration>0:06:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>延伸閱讀 27｜CLS 二十年後：重播會挑重點，皮質也能學得快</title>
       <description>CLS 理論的更新：加權重播、schema 快速鞏固，以及 DQN 的 experience replay。</description>
       <itunes:summary>CLS 理論的更新：加權重播、schema 快速鞏固，以及 DQN 的 experience replay。</itunes:summary>
