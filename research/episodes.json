@@ -236,5 +236,12 @@
     "description": "Blundell 等 2016 MFEC 與 NEC：海馬迴式的一次學習。",
     "date": "2026-11-05T21:06:00+08:00",
     "guid": "0af8fde8-9d18-4306-84ca-771ba00778c4"
+  },
+  {
+    "file": "2026-11-05-further-reading-32-dnc.mp3",
+    "title": "延伸閱讀 32｜可微分神經計算機：給神經網路一本可以讀寫的筆記本",
+    "description": "Graves 等 2016 Nature：可微分外部記憶、分配與時間連結。",
+    "date": "2026-11-05T21:07:00+08:00",
+    "guid": "3535e3aa-150b-4000-b3bd-2f2ea1398bd6"
   }
 ]
