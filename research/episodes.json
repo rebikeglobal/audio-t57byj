@@ -222,5 +222,12 @@
     "description": "Frey & Morris 1997：早期 LTP 留下標記，蛋白質決定能否變成長期記憶。",
     "date": "2026-11-05T21:04:00+08:00",
     "guid": "8f328a77-a1dd-4bf5-ba9a-708cfc4e998b"
+  },
+  {
+    "file": "2026-11-05-further-reading-30-fast-weights.mp3",
+    "title": "延伸閱讀 30｜快權重：讓神經網路記住剛剛發生的事",
+    "description": "Ba 等 2016：會衰減的 Hebb 快權重，以及它與線性注意力的關係。",
+    "date": "2026-11-05T21:05:00+08:00",
+    "guid": "b2170417-3b4e-4a3e-b8aa-2acd44959440"
   }
 ]
