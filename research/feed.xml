@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>延伸閱讀 22｜接線成本讓網路長出大腦的樞紐：seRNN</title>
+      <description>讓長連線變貴，循環網路自己長出模組、小世界和記憶核心（Achterberg 等 2023）</description>
+      <itunes:summary>讓長連線變貴，循環網路自己長出模組、小世界和記憶核心（Achterberg 等 2023）</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-22-sernn.mp3" length="3680492" type="audio/mpeg"/>
+      <guid isPermaLink="false">ec58294b-4517-465a-807d-6eb61a5adf01</guid>
+      <pubDate>Thu, 05 Nov 2026 16:23:14 +0800</pubDate>
+      <itunes:duration>0:07:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>延伸閱讀 21｜MGTX 血清蛋白質體：預測誰適合開胸腺，和一個藏起來的陷阱</title>
       <description>用胸腺切除試驗的血清蛋白質體預測治療反應，並拆解特徵篩選洩漏：為什麼巢狀交叉驗證也擋不住它。</description>
       <itunes:summary>用胸腺切除試驗的血清蛋白質體預測治療反應，並拆解特徵篩選洩漏：為什麼巢狀交叉驗證也擋不住它。</itunes:summary>
