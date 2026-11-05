@@ -173,5 +173,12 @@
     "description": "讓長連線變貴，循環網路自己長出模組、小世界和記憶核心（Achterberg 等 2023）",
     "date": "2026-11-05T16:23:14+08:00",
     "guid": "ec58294b-4517-465a-807d-6eb61a5adf01"
+  },
+  {
+    "file": "2026-11-05-further-reading-23-rome.mp3",
+    "title": "延伸閱讀 23｜GPT 把事實存在哪裡：ROME",
+    "description": "因果追蹤找到中間層 MLP，再用秩一更新改寫一個事實（Meng 等 2022）",
+    "date": "2026-11-05T16:26:17+08:00",
+    "guid": "4a8924ad-c112-40fe-9011-c223e04bcdf0"
   }
 ]
