@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>延伸閱讀 33｜MemGPT：讓語言模型自己管理記憶</title>
+      <description>Packer 等：把 LLM 當作業系統管理記憶分層。</description>
+      <itunes:summary>Packer 等：把 LLM 當作業系統管理記憶分層。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-33-memgpt.mp3" length="3272108" type="audio/mpeg"/>
+      <guid isPermaLink="false">159ac870-11c9-474a-9383-d006d114a9bc</guid>
+      <pubDate>Thu, 05 Nov 2026 21:08:00 +0800</pubDate>
+      <itunes:duration>0:06:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>延伸閱讀 32｜可微分神經計算機：給神經網路一本可以讀寫的筆記本</title>
       <description>Graves 等 2016 Nature：可微分外部記憶、分配與時間連結。</description>
       <itunes:summary>Graves 等 2016 Nature：可微分外部記憶、分配與時間連結。</itunes:summary>

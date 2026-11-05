@@ -243,5 +243,12 @@
     "description": "Graves 等 2016 Nature：可微分外部記憶、分配與時間連結。",
     "date": "2026-11-05T21:07:00+08:00",
     "guid": "3535e3aa-150b-4000-b3bd-2f2ea1398bd6"
+  },
+  {
+    "file": "2026-11-05-further-reading-33-memgpt.mp3",
+    "title": "延伸閱讀 33｜MemGPT：讓語言模型自己管理記憶",
+    "description": "Packer 等：把 LLM 當作業系統管理記憶分層。",
+    "date": "2026-11-05T21:08:00+08:00",
+    "guid": "159ac870-11c9-474a-9383-d006d114a9bc"
   }
 ]
