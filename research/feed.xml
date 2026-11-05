@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>延伸閱讀 35｜遺忘為什麼可能是功能，不是故障</title>
+      <description>Richards 與 Frankland 2017：遺忘可以服務決策與泛化。</description>
+      <itunes:summary>Richards 與 Frankland 2017：遺忘可以服務決策與泛化。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-35-richards-frankland-2017.mp3" length="2171180" type="audio/mpeg"/>
+      <guid isPermaLink="false">d417f7d3-b2d6-42df-9cc5-f21d7f8bd11d</guid>
+      <pubDate>Thu, 05 Nov 2026 22:44:00 +0800</pubDate>
+      <itunes:duration>0:04:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>延伸閱讀 34｜STaR：用自己答對的推理來教自己</title>
       <description>Zelikman 等 2022：自我生成推理的訓練迴圈，以及它與重播的距離。</description>
       <itunes:summary>Zelikman 等 2022：自我生成推理的訓練迴圈，以及它與重播的距離。</itunes:summary>
