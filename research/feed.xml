@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>延伸閱讀 34｜STaR：用自己答對的推理來教自己</title>
+      <description>Zelikman 等 2022：自我生成推理的訓練迴圈，以及它與重播的距離。</description>
+      <itunes:summary>Zelikman 等 2022：自我生成推理的訓練迴圈，以及它與重播的距離。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-34-star.mp3" length="3283436" type="audio/mpeg"/>
+      <guid isPermaLink="false">0bbbea54-102d-47f7-b7cb-9ec628af897e</guid>
+      <pubDate>Thu, 05 Nov 2026 21:09:00 +0800</pubDate>
+      <itunes:duration>0:06:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>延伸閱讀 33｜MemGPT：讓語言模型自己管理記憶</title>
       <description>Packer 等：把 LLM 當作業系統管理記憶分層。</description>
       <itunes:summary>Packer 等：把 LLM 當作業系統管理記憶分層。</itunes:summary>

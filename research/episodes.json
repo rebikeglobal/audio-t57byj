@@ -250,5 +250,12 @@
     "description": "Packer 等：把 LLM 當作業系統管理記憶分層。",
     "date": "2026-11-05T21:08:00+08:00",
     "guid": "159ac870-11c9-474a-9383-d006d114a9bc"
+  },
+  {
+    "file": "2026-11-05-further-reading-34-star.mp3",
+    "title": "延伸閱讀 34｜STaR：用自己答對的推理來教自己",
+    "description": "Zelikman 等 2022：自我生成推理的訓練迴圈，以及它與重播的距離。",
+    "date": "2026-11-05T21:09:00+08:00",
+    "guid": "0bbbea54-102d-47f7-b7cb-9ec628af897e"
   }
 ]
