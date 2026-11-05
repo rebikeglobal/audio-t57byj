@@ -201,5 +201,12 @@
     "description": "互補學習系統理論的源頭：交錯學習、企鵝實驗與雙儲存鞏固模型。",
     "date": "2026-11-05T21:01:00+08:00",
     "guid": "950aa638-fc54-406b-955d-debd8bbb06cb"
+  },
+  {
+    "file": "2026-11-05-further-reading-27-cls-2016.mp3",
+    "title": "延伸閱讀 27｜CLS 二十年後：重播會挑重點，皮質也能學得快",
+    "description": "CLS 理論的更新：加權重播、schema 快速鞏固，以及 DQN 的 experience replay。",
+    "date": "2026-11-05T21:02:00+08:00",
+    "guid": "f275cd50-1960-4bc8-9515-a500ad1337e0"
   }
 ]
