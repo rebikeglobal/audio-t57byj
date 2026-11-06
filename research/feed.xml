@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>JEPA 持續學習先備課 6｜先學會量測：實作管線、讀出與遺忘的教學例子</title>
+      <description>透過可執行教學例子，理解表徵變換、資訊損失與研究評估。</description>
+      <itunes:summary>透過可執行教學例子，理解表徵變換、資訊損失與研究評估。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-representation-evaluation.mp3" length="7715372" type="audio/mpeg"/>
+      <guid isPermaLink="false">78387913-9c98-48cc-8b22-4ba5894a394a</guid>
+      <pubDate>Sat, 07 Nov 2026 01:47:23 +0800</pubDate>
+      <itunes:duration>0:16:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>JEPA 持續學習先備課 5｜模型整理不是一個動作：壓縮、蒸餾與自動化</title>
       <description>區分記憶、壓縮、技能化與模型整理，釐清生物類比的證據界線。</description>
       <itunes:summary>區分記憶、壓縮、技能化與模型整理，釐清生物類比的證據界線。</itunes:summary>
