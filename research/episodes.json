@@ -306,5 +306,12 @@
     "description": "追蹤 JEPA 的資料、梯度與 EMA 更新，分辨低損失和有用表徵。",
     "date": "2026-11-07T01:38:31+08:00",
     "guid": "3080f4b6-64f7-4b87-b95e-6bc43cb64acd"
+  },
+  {
+    "file": "2026-11-07-continual-learning-foundations.mp3",
+    "title": "JEPA 持續學習先備課 3｜無標籤學習，也需要公平的成績單",
+    "description": "釐清持續學習協定、遺忘指標與基線，避免不公平比較。",
+    "date": "2026-11-07T01:40:43+08:00",
+    "guid": "d9ec917d-640d-42fc-b394-a83fd4906ec0"
   }
 ]
