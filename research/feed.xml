@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>JEPA 持續學習先備課 1｜從數字到表徵：模型究竟學到了什麼</title>
+      <description>以直覺、梯度與小例子建立表徵學習、自監督與評估的共同語言。</description>
+      <itunes:summary>以直覺、梯度與小例子建立表徵學習、自監督與評估的共同語言。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-jepa-foundations.mp3" length="7685228" type="audio/mpeg"/>
+      <guid isPermaLink="false">b13b82b5-4eb0-490a-b8e0-902d3fae94ca</guid>
+      <pubDate>Sat, 07 Nov 2026 01:36:17 +0800</pubDate>
+      <itunes:duration>0:16:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>延伸閱讀 39｜學不動了：深度持續學習的可塑性喪失</title>
       <description>Dohare 等 2024：可塑性喪失與持續反向傳播。</description>
       <itunes:summary>Dohare 等 2024：可塑性喪失與持續反向傳播。</itunes:summary>
@@ -207,7 +218,7 @@
       <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-22-sernn.mp3" length="3680492" type="audio/mpeg"/>
       <guid isPermaLink="false">ec58294b-4517-465a-807d-6eb61a5adf01</guid>
       <pubDate>Thu, 05 Nov 2026 16:23:14 +0800</pubDate>
-      <itunes:duration>0:07:40</itunes:duration>
+      <itunes:duration>0:07:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
