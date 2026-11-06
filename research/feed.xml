@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>JEPA 持續學習先備課 2｜讀懂訓練動態：梯度、漂移與能力的三種測驗</title>
+      <description>追蹤 JEPA 的資料、梯度與 EMA 更新，分辨低損失和有用表徵。</description>
+      <itunes:summary>追蹤 JEPA 的資料、梯度與 EMA 更新，分辨低損失和有用表徵。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-jepa-architecture.mp3" length="7792940" type="audio/mpeg"/>
+      <guid isPermaLink="false">3080f4b6-64f7-4b87-b95e-6bc43cb64acd</guid>
+      <pubDate>Sat, 07 Nov 2026 01:38:31 +0800</pubDate>
+      <itunes:duration>0:16:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>JEPA 持續學習先備課 1｜從數字到表徵：模型究竟學到了什麼</title>
       <description>以直覺、梯度與小例子建立表徵學習、自監督與評估的共同語言。</description>
       <itunes:summary>以直覺、梯度與小例子建立表徵學習、自監督與評估的共同語言。</itunes:summary>
