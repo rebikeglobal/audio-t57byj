@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>JEPA 持續學習先備課 7｜另一條防崩塌路線，與持續適應的邊界</title>
+      <description>比較 LeJEPA 的分布正則化、持續自監督學習地圖，以及 JEPA-TTT 適應與保留的證據界線。</description>
+      <itunes:summary>比較 LeJEPA 的分布正則化、持續自監督學習地圖，以及 JEPA-TTT 適應與保留的證據界線。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-jepa-recent-directions.mp3" length="6559916" type="audio/mpeg"/>
+      <guid isPermaLink="false">3a15fed5-ee9e-463f-a6ee-303ab8ed83ac</guid>
+      <pubDate>Sat, 07 Nov 2026 01:50:56 +0800</pubDate>
+      <itunes:duration>0:13:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>JEPA 持續學習先備課 6｜先學會量測：實作管線、讀出與遺忘的教學例子</title>
       <description>透過可執行教學例子，理解表徵變換、資訊損失與研究評估。</description>
       <itunes:summary>透過可執行教學例子，理解表徵變換、資訊損失與研究評估。</itunes:summary>
