@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>DeltaHippo｜不用重播舊資料，如何保住模型自己用得上的知識？</title>
+      <description>精讀未審稿預印本 DeltaHippo：幾何索引、Adam 前後約束、近似類別衝突，以及可解碼不等於模型自己用得上；同時檢查新學習、成本與證據限制。</description>
+      <itunes:summary>精讀未審稿預印本 DeltaHippo：幾何索引、Adam 前後約束、近似類別衝突，以及可解碼不等於模型自己用得上；同時檢查新學習、成本與證據限制。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-deltahippo.mp3" length="15900908" type="audio/mpeg"/>
+      <guid isPermaLink="false">f36d4e08-9230-4f3f-a883-1686825bd5bb</guid>
+      <pubDate>Sat, 07 Nov 2026 11:03:00 +0800</pubDate>
+      <itunes:duration>0:33:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>JEPA 持續學習先備課 7｜另一條防崩塌路線，與持續適應的邊界</title>
       <description>比較 LeJEPA 的分布正則化、持續自監督學習地圖，以及 JEPA-TTT 適應與保留的證據界線。</description>
       <itunes:summary>比較 LeJEPA 的分布正則化、持續自監督學習地圖，以及 JEPA-TTT 適應與保留的證據界線。</itunes:summary>
