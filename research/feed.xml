@@ -14,6 +14,50 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>超越反向傳播 4｜演化策略：不用反傳，代價換到哪裡？</title>
+      <description>用參數擾動和回報估計學習方向，區分平行速度、樣本效率與長程任務的探索難題。</description>
+      <itunes:summary>用參數擾動和回報估計學習方向，區分平行速度、樣本效率與長程任務的探索難題。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-beyond-backprop-evolution-strategies.mp3" length="7612460" type="audio/mpeg"/>
+      <guid isPermaLink="false">6052294c-f3b6-5a35-9d22-712d5c8464a2</guid>
+      <pubDate>Tue, 10 Nov 2026 13:02:19 +0800</pubDate>
+      <itunes:duration>0:15:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>超越反向傳播 3｜Forward-Forward：兩次前向，真的不需要梯度嗎？</title>
+      <description>精讀 Forward-Forward 的正負資料、局部 goodness 與正規化；區分不做跨層反傳與完全不用梯度。</description>
+      <itunes:summary>精讀 Forward-Forward 的正負資料、局部 goodness 與正規化；區分不做跨層反傳與完全不用梯度。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-beyond-backprop-forward-forward.mp3" length="7319852" type="audio/mpeg"/>
+      <guid isPermaLink="false">c6a8d148-3966-512d-a851-27ccfb7e43a9</guid>
+      <pubDate>Tue, 10 Nov 2026 13:02:18 +0800</pubDate>
+      <itunes:duration>0:15:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>超越反向傳播 2｜預測編碼：局部誤差能教會深層網路嗎？</title>
+      <description>用局部預測誤差調整活動與權重，理解預測編碼近似反向傳播的條件，以及推論迭代與回饋訊號的成本。</description>
+      <itunes:summary>用局部預測誤差調整活動與權重，理解預測編碼近似反向傳播的條件，以及推論迭代與回饋訊號的成本。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-beyond-backprop-predictive-coding.mp3" length="7353836" type="audio/mpeg"/>
+      <guid isPermaLink="false">4a07c836-3eb4-5c48-8e10-99a852a7139e</guid>
+      <pubDate>Tue, 10 Nov 2026 13:02:17 +0800</pubDate>
+      <itunes:duration>0:15:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>超越反向傳播 1｜多巴胺與突觸標記，如何分配延遲的功勞？</title>
+      <description>從突觸資格痕跡、三因素學習到 e-prop：延遲回饋如何找到相關連結，為何仍未自動解決所有深層功勞分配。</description>
+      <itunes:summary>從突觸資格痕跡、三因素學習到 e-prop：延遲回饋如何找到相關連結，為何仍未自動解決所有深層功勞分配。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-beyond-backprop-eligibility.mp3" length="7238636" type="audio/mpeg"/>
+      <guid isPermaLink="false">85c57af5-5ba0-5f14-8c19-ad00bc2e4689</guid>
+      <pubDate>Tue, 10 Nov 2026 13:02:16 +0800</pubDate>
+      <itunes:duration>0:15:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>DeltaHippo｜不用重播舊資料，如何保住模型自己用得上的知識？</title>
       <description>精讀未審稿預印本 DeltaHippo：幾何索引、Adam 前後約束、近似類別衝突，以及可解碼不等於模型自己用得上；同時檢查新學習、成本與證據限制。</description>
       <itunes:summary>精讀未審稿預印本 DeltaHippo：幾何索引、Adam 前後約束、近似類別衝突，以及可解碼不等於模型自己用得上；同時檢查新學習、成本與證據限制。</itunes:summary>
