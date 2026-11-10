@@ -376,5 +376,26 @@
     "description": "用參數擾動和回報估計學習方向，區分平行速度、樣本效率與長程任務的探索難題。",
     "date": "2026-11-10T13:02:19+08:00",
     "guid": "6052294c-f3b6-5a35-9d22-712d5c8464a2"
+  },
+  {
+    "file": "2026-11-10-reward-credit-td.mp3",
+    "title": "獎勵如何往前傳 1｜TD learning：不用等終點，也能學嗎？",
+    "description": "從前後價值預測差異學習：TD誤差、bootstrap與資格跡，為什麼提前學習不等於沿途多發獎賞。",
+    "date": "2026-11-10T16:01:07+08:00",
+    "guid": "7c9e93d7-9402-5bce-b26e-74db0b654de6"
+  },
+  {
+    "file": "2026-11-10-reward-credit-shaping.mp3",
+    "title": "獎勵如何往前傳 2｜Reward shaping：給進度分，怎樣才不會刷分？",
+    "description": "用potential-based reward shaping提供進度回饋，理解最佳策略不變的條件、終點邊界，以及刷分風險。",
+    "date": "2026-11-10T16:01:08+08:00",
+    "guid": "d3c69587-8306-5dde-ae66-109795f33367"
+  },
+  {
+    "file": "2026-11-10-reward-credit-rudder.mp3",
+    "title": "獎勵如何往前傳 3｜RUDDER：把終點獎賞，分回改變預測的步驟",
+    "description": "RUDDER如何分解回報預測，將延遲獎賞分回關鍵事件；區分貢獻歸因、真實因果與反向傳播的角色。",
+    "date": "2026-11-10T16:01:09+08:00",
+    "guid": "eaae7782-4f1b-5060-b46b-90fbf4d1fa4c"
   }
 ]

@@ -14,6 +14,39 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>獎勵如何往前傳 3｜RUDDER：把終點獎賞，分回改變預測的步驟</title>
+      <description>RUDDER如何分解回報預測，將延遲獎賞分回關鍵事件；區分貢獻歸因、真實因果與反向傳播的角色。</description>
+      <itunes:summary>RUDDER如何分解回報預測，將延遲獎賞分回關鍵事件；區分貢獻歸因、真實因果與反向傳播的角色。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-reward-credit-rudder.mp3" length="7553708" type="audio/mpeg"/>
+      <guid isPermaLink="false">eaae7782-4f1b-5060-b46b-90fbf4d1fa4c</guid>
+      <pubDate>Tue, 10 Nov 2026 16:01:09 +0800</pubDate>
+      <itunes:duration>0:15:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>獎勵如何往前傳 2｜Reward shaping：給進度分，怎樣才不會刷分？</title>
+      <description>用potential-based reward shaping提供進度回饋，理解最佳策略不變的條件、終點邊界，以及刷分風險。</description>
+      <itunes:summary>用potential-based reward shaping提供進度回饋，理解最佳策略不變的條件、終點邊界，以及刷分風險。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-reward-credit-shaping.mp3" length="7453676" type="audio/mpeg"/>
+      <guid isPermaLink="false">d3c69587-8306-5dde-ae66-109795f33367</guid>
+      <pubDate>Tue, 10 Nov 2026 16:01:08 +0800</pubDate>
+      <itunes:duration>0:15:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>獎勵如何往前傳 1｜TD learning：不用等終點，也能學嗎？</title>
+      <description>從前後價值預測差異學習：TD誤差、bootstrap與資格跡，為什麼提前學習不等於沿途多發獎賞。</description>
+      <itunes:summary>從前後價值預測差異學習：TD誤差、bootstrap與資格跡，為什麼提前學習不等於沿途多發獎賞。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-reward-credit-td.mp3" length="7545068" type="audio/mpeg"/>
+      <guid isPermaLink="false">7c9e93d7-9402-5bce-b26e-74db0b654de6</guid>
+      <pubDate>Tue, 10 Nov 2026 16:01:07 +0800</pubDate>
+      <itunes:duration>0:15:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>超越反向傳播 4｜演化策略：不用反傳，代價換到哪裡？</title>
       <description>用參數擾動和回報估計學習方向，區分平行速度、樣本效率與長程任務的探索難題。</description>
       <itunes:summary>用參數擾動和回報估計學習方向，區分平行速度、樣本效率與長程任務的探索難題。</itunes:summary>
