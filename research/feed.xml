@@ -14,6 +14,50 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>生物智慧 4｜果蠅全腦模擬：連線圖、神經活動與虛擬身體之間</title>
+      <description>精讀 Shiu 2024 的感覺運動預測與活體驗證，區分 Google 連線圖、flybody 身體控制器及後續有身體展示。</description>
+      <itunes:summary>精讀 Shiu 2024 的感覺運動預測與活體驗證，區分 Google 連線圖、flybody 身體控制器及後續有身體展示。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-11-fly-connectome-simulation.mp3" length="7168364" type="audio/mpeg"/>
+      <guid isPermaLink="false">b47032a3-391b-46b3-8ecf-d4ea6987e3fa</guid>
+      <pubDate>Wed, 11 Nov 2026 01:42:04 +0800</pubDate>
+      <itunes:duration>0:14:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>生物智慧 3｜黏菌與東京鐵路：沒有大腦，怎麼長出好網路？</title>
+      <description>精讀 Tero 2010：黏菌如何在成本、運輸路徑與容錯間折衷；追蹤流量與管道適應，避免把東京鐵路比較誇成全面勝出。</description>
+      <itunes:summary>精讀 Tero 2010：黏菌如何在成本、運輸路徑與容錯間折衷；追蹤流量與管道適應，避免把東京鐵路比較誇成全面勝出。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-11-tero-physarum-tokyo.mp3" length="7127084" type="audio/mpeg"/>
+      <guid isPermaLink="false">d6d4f696-733b-41ef-a81f-3e4cdfbfe179</guid>
+      <pubDate>Wed, 11 Nov 2026 01:42:03 +0800</pubDate>
+      <itunes:duration>0:14:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>生物智慧 2｜大腦在學什麼：目標、規則與架構的三角形</title>
+      <description>精讀 Richards 2019：以目標函數、學習規則與架構研究大腦；從任務成績走向可反駁的神經預測。</description>
+      <itunes:summary>精讀 Richards 2019：以目標函數、學習規則與架構研究大腦；從任務成績走向可反駁的神經預測。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-11-richards-deep-framework.mp3" length="7076012" type="audio/mpeg"/>
+      <guid isPermaLink="false">fcdcb751-ba80-4db0-a05f-9250dc0347d9</guid>
+      <pubDate>Wed, 11 Nov 2026 01:42:02 +0800</pubDate>
+      <itunes:duration>0:14:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>生物智慧 1｜一個全域回饋，怎麼讓該改的神經元多改一點？</title>
+      <description>精讀 Legenstein 2010：局部活動偏差如何結合全域回饋，解釋腦機介面的選擇性重組；區分模型可行性與生物機制證明。</description>
+      <itunes:summary>精讀 Legenstein 2010：局部活動偏差如何結合全域回饋，解釋腦機介面的選擇性重組；區分模型可行性與生物機制證明。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-11-legenstein-reward-hebb.mp3" length="7138028" type="audio/mpeg"/>
+      <guid isPermaLink="false">157faf0c-4871-4c3e-b20d-a839801c1139</guid>
+      <pubDate>Wed, 11 Nov 2026 01:42:01 +0800</pubDate>
+      <itunes:duration>0:14:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>獎勵如何往前傳 3｜RUDDER：把終點獎賞，分回改變預測的步驟</title>
       <description>RUDDER如何分解回報預測，將延遲獎賞分回關鍵事件；區分貢獻歸因、真實因果與反向傳播的角色。</description>
       <itunes:summary>RUDDER如何分解回報預測，將延遲獎賞分回關鍵事件；區分貢獻歸因、真實因果與反向傳播的角色。</itunes:summary>
