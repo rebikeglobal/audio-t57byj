@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>導數算對了，為什麼還學不好？從 PIPPS 到 Dreamer 的梯度估計</title>
+      <description>從 PIPPS 與 Total Propagation 到 TPX：理解敏感動態為何讓精確導數難以形成可靠的期望梯度，以及兩種估計方式如何在 DreamerV1 中互補。包含白話例子、實驗限制與三個自測。</description>
+      <itunes:summary>從 PIPPS 與 Total Propagation 到 TPX：理解敏感動態為何讓精確導數難以形成可靠的期望梯度，以及兩種估計方式如何在 DreamerV1 中互補。包含白話例子、實驗限制與三個自測。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-14-pipps-tpx.mp3" length="7474988" type="audio/mpeg"/>
+      <guid isPermaLink="false">49c2de7e-e736-450b-885e-b753666cf110</guid>
+      <pubDate>Sat, 14 Nov 2026 21:51:05 +0800</pubDate>
+      <itunes:duration>0:15:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>STABLE｜學新任務時，怎麼調整拉住舊模型的力道？</title>
       <description>精讀 STABLE：以自適應拉回控制任務切換後的參數漂移，拆解局部間距保證、PEFT 與讀出統計，並核對批次公平性和新學習的界線。</description>
       <itunes:summary>精讀 STABLE：以自適應拉回控制任務切換後的參數漂移，拆解局部間距保證、PEFT 與讀出統計，並核對批次公平性和新學習的界線。</itunes:summary>
