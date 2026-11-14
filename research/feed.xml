@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>STABLE｜學新任務時，怎麼調整拉住舊模型的力道？</title>
+      <description>精讀 STABLE：以自適應拉回控制任務切換後的參數漂移，拆解局部間距保證、PEFT 與讀出統計，並核對批次公平性和新學習的界線。</description>
+      <itunes:summary>精讀 STABLE：以自適應拉回控制任務切換後的參數漂移，拆解局部間距保證、PEFT 與讀出統計，並核對批次公平性和新學習的界線。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-14-radar-stable.mp3" length="7572140" type="audio/mpeg"/>
+      <guid isPermaLink="false">a36d6c85-6bb6-5b00-b9aa-85f836132422</guid>
+      <pubDate>Sat, 14 Nov 2026 09:36:47 +0800</pubDate>
+      <itunes:duration>0:15:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>生物智慧 4｜果蠅全腦模擬：連線圖、神經活動與虛擬身體之間</title>
       <description>精讀 Shiu 2024 的感覺運動預測與活體驗證，區分 Google 連線圖、flybody 身體控制器及後續有身體展示。</description>
       <itunes:summary>精讀 Shiu 2024 的感覺運動預測與活體驗證，區分 Google 連線圖、flybody 身體控制器及後續有身體展示。</itunes:summary>
