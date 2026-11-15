@@ -14,6 +14,39 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>什麼值得記住 3｜未來用途不是驚訝：重要性如何學習、更新與驗證？</title>
+      <description>以增益乘上需要與互動式機器人記憶預印本，拆解目標、用途估計、記憶操作和成本驗收；為何驚訝不等於有用。附三題自測。</description>
+      <itunes:summary>以增益乘上需要與互動式機器人記憶預印本，拆解目標、用途估計、記憶操作和成本驗收；為何驚訝不等於有用。附三題自測。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-importance-comparison.mp3" length="7215404" type="audio/mpeg"/>
+      <guid isPermaLink="false">0733417e-751b-570c-8590-0ee96bf97cdd</guid>
+      <pubDate>Sun, 15 Nov 2026 11:48:44 +0800</pubDate>
+      <itunes:duration>0:15:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>什麼值得記住 2｜AI 學到的是用途，還是誤差、干擾與敏感度？</title>
+      <description>比較優先回放、干擾提取、參數保護與情節記憶閱讀器：哪些只是代理訊號，哪些從後續任務回饋學保留策略？附三題自測。</description>
+      <itunes:summary>比較優先回放、干擾提取、參數保護與情節記憶閱讀器：哪些只是代理訊號，哪些從後續任務回饋學保留策略？附三題自測。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-importance-ai.mp3" length="7272044" type="audio/mpeg"/>
+      <guid isPermaLink="false">ddeae0a2-b8cd-5060-8435-588cf12dbcea</guid>
+      <pubDate>Sun, 15 Nov 2026 11:48:43 +0800</pubDate>
+      <itunes:duration>0:15:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>什麼值得記住 1｜獎賞、新奇與重播：生物記憶如何被排優先？</title>
+      <description>從獎賞提示、學後新奇與海馬迴重播，分辨相關、因果介入與未來用途的計算理論。公開文獻綜合，附三題自測。</description>
+      <itunes:summary>從獎賞提示、學後新奇與海馬迴重播，分辨相關、因果介入與未來用途的計算理論。公開文獻綜合，附三題自測。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-importance-biology.mp3" length="7188140" type="audio/mpeg"/>
+      <guid isPermaLink="false">f3279e79-ed38-5001-a55a-1580096abbf4</guid>
+      <pubDate>Sun, 15 Nov 2026 11:48:42 +0800</pubDate>
+      <itunes:duration>0:14:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>導數算對了，為什麼還學不好？從 PIPPS 到 Dreamer 的梯度估計</title>
       <description>從 PIPPS 與 Total Propagation 到 TPX：理解敏感動態為何讓精確導數難以形成可靠的期望梯度，以及兩種估計方式如何在 DreamerV1 中互補。包含白話例子、實驗限制與三個自測。</description>
       <itunes:summary>從 PIPPS 與 Total Propagation 到 TPX：理解敏感動態為何讓精確導數難以形成可靠的期望梯度，以及兩種估計方式如何在 DreamerV1 中互補。包含白話例子、實驗限制與三個自測。</itunes:summary>
