@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>LJ 研究</title>
+    <item><title>持續學習的三條路 3｜SIESTA：白天快速學，睡眠時用有限記憶整理</title><description>導讀 Harun 等 TMLR 2023：清醒時快速更新分類頭，睡眠時重播有限壓縮記憶；拆解初始化、樣本更新預算、準確率與成本，附三題自測。</description><itunes:summary>導讀 Harun 等 TMLR 2023：清醒時快速更新分類頭，睡眠時重播有限壓縮記憶；拆解初始化、樣本更新預算、準確率與成本，附三題自測。</itunes:summary><enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-siesta-wake-sleep.mp3" length="7450028" type="audio/mpeg" /><guid isPermaLink="false">feb2461a-1cdb-5a9e-89ae-966742831276</guid><pubDate>Sun, 15 Nov 2026 23:05:05 +0800</pubDate><itunes:duration>0:15:31</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>持續學習的三條路 1｜Adaptive Random Forest：環境變了，何時換掉舊模型？</title><description>導讀 Gomes 等 2017：串流標籤、隨機子空間、警告與候補樹、漂移替換；以實驗與三題自測拆解適應速度、資源和舊環境回歸的限制。</description><itunes:summary>導讀 Gomes 等 2017：串流標籤、隨機子空間、警告與候補樹、漂移替換；以實驗與三題自測拆解適應速度、資源和舊環境回歸的限制。</itunes:summary><enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-adaptive-random-forest.mp3" length="7790060" type="audio/mpeg" /><guid isPermaLink="false">8c369215-8f1d-5681-8b56-55e47b177c5a</guid><pubDate>Sun, 15 Nov 2026 23:01:47 +0800</pubDate><itunes:duration>0:16:13</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><title>LJ 研究</title>
     <link>https://rebikeglobal.github.io/audio-t57byj/research/</link>
-    <atom:link href="https://rebikeglobal.github.io/audio-t57byj/research/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://rebikeglobal.github.io/audio-t57byj/research/feed.xml" rel="self" type="application/rss+xml" />
     <description>研究相關論文與筆記的語音版，僅供自己收聽。</description>
     <language>zh-tw</language>
     <itunes:author>LJ</itunes:author>
     <itunes:owner><itunes:name>LJ</itunes:name></itunes:owner>
-    <itunes:image href="https://rebikeglobal.github.io/audio-t57byj/research/cover-v2.png"/>
-    <itunes:category text="Education"/>
+    <itunes:image href="https://rebikeglobal.github.io/audio-t57byj/research/cover-v2.png" />
+    <itunes:category text="Education" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
@@ -17,7 +17,7 @@
       <title>CPG｜先壓縮、再重用、按需成長：不遺忘的代價是什麼？</title>
       <description>導讀 NeurIPS 2019 CPG：用剪枝釋出空位、遮罩重用凍結權重，未達目標才擴充。拆解實驗、任務提示與儲存成本，附三題自測。</description>
       <itunes:summary>導讀 NeurIPS 2019 CPG：用剪枝釋出空位、遮罩重用凍結權重，未達目標才擴充。拆解實驗、任務提示與儲存成本，附三題自測。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-cpg.mp3" length="7892588" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-cpg.mp3" length="7892588" type="audio/mpeg" />
       <guid isPermaLink="false">11610e74-eb0b-46af-ac0f-d6c291e4e7eb</guid>
       <pubDate>Sun, 15 Nov 2026 14:47:50 +0800</pubDate>
       <itunes:duration>0:16:26</itunes:duration>
@@ -28,7 +28,7 @@
       <title>什麼值得記住 3｜未來用途不是驚訝：重要性如何學習、更新與驗證？</title>
       <description>以增益乘上需要與互動式機器人記憶預印本，拆解目標、用途估計、記憶操作和成本驗收；為何驚訝不等於有用。附三題自測。</description>
       <itunes:summary>以增益乘上需要與互動式機器人記憶預印本，拆解目標、用途估計、記憶操作和成本驗收；為何驚訝不等於有用。附三題自測。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-importance-comparison.mp3" length="7215404" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-importance-comparison.mp3" length="7215404" type="audio/mpeg" />
       <guid isPermaLink="false">0733417e-751b-570c-8590-0ee96bf97cdd</guid>
       <pubDate>Sun, 15 Nov 2026 11:48:44 +0800</pubDate>
       <itunes:duration>0:15:01</itunes:duration>
@@ -39,7 +39,7 @@
       <title>什麼值得記住 2｜AI 學到的是用途，還是誤差、干擾與敏感度？</title>
       <description>比較優先回放、干擾提取、參數保護與情節記憶閱讀器：哪些只是代理訊號，哪些從後續任務回饋學保留策略？附三題自測。</description>
       <itunes:summary>比較優先回放、干擾提取、參數保護與情節記憶閱讀器：哪些只是代理訊號，哪些從後續任務回饋學保留策略？附三題自測。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-importance-ai.mp3" length="7272044" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-importance-ai.mp3" length="7272044" type="audio/mpeg" />
       <guid isPermaLink="false">ddeae0a2-b8cd-5060-8435-588cf12dbcea</guid>
       <pubDate>Sun, 15 Nov 2026 11:48:43 +0800</pubDate>
       <itunes:duration>0:15:08</itunes:duration>
@@ -50,7 +50,7 @@
       <title>什麼值得記住 1｜獎賞、新奇與重播：生物記憶如何被排優先？</title>
       <description>從獎賞提示、學後新奇與海馬迴重播，分辨相關、因果介入與未來用途的計算理論。公開文獻綜合，附三題自測。</description>
       <itunes:summary>從獎賞提示、學後新奇與海馬迴重播，分辨相關、因果介入與未來用途的計算理論。公開文獻綜合，附三題自測。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-importance-biology.mp3" length="7188140" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-importance-biology.mp3" length="7188140" type="audio/mpeg" />
       <guid isPermaLink="false">f3279e79-ed38-5001-a55a-1580096abbf4</guid>
       <pubDate>Sun, 15 Nov 2026 11:48:42 +0800</pubDate>
       <itunes:duration>0:14:58</itunes:duration>
@@ -61,7 +61,7 @@
       <title>導數算對了，為什麼還學不好？從 PIPPS 到 Dreamer 的梯度估計</title>
       <description>從 PIPPS 與 Total Propagation 到 TPX：理解敏感動態為何讓精確導數難以形成可靠的期望梯度，以及兩種估計方式如何在 DreamerV1 中互補。包含白話例子、實驗限制與三個自測。</description>
       <itunes:summary>從 PIPPS 與 Total Propagation 到 TPX：理解敏感動態為何讓精確導數難以形成可靠的期望梯度，以及兩種估計方式如何在 DreamerV1 中互補。包含白話例子、實驗限制與三個自測。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-14-pipps-tpx.mp3" length="7474988" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-14-pipps-tpx.mp3" length="7474988" type="audio/mpeg" />
       <guid isPermaLink="false">49c2de7e-e736-450b-885e-b753666cf110</guid>
       <pubDate>Sat, 14 Nov 2026 21:51:05 +0800</pubDate>
       <itunes:duration>0:15:34</itunes:duration>
@@ -72,7 +72,7 @@
       <title>STABLE｜學新任務時，怎麼調整拉住舊模型的力道？</title>
       <description>精讀 STABLE：以自適應拉回控制任務切換後的參數漂移，拆解局部間距保證、PEFT 與讀出統計，並核對批次公平性和新學習的界線。</description>
       <itunes:summary>精讀 STABLE：以自適應拉回控制任務切換後的參數漂移，拆解局部間距保證、PEFT 與讀出統計，並核對批次公平性和新學習的界線。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-14-radar-stable.mp3" length="7572140" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-14-radar-stable.mp3" length="7572140" type="audio/mpeg" />
       <guid isPermaLink="false">a36d6c85-6bb6-5b00-b9aa-85f836132422</guid>
       <pubDate>Sat, 14 Nov 2026 09:36:47 +0800</pubDate>
       <itunes:duration>0:15:46</itunes:duration>
@@ -83,7 +83,7 @@
       <title>生物智慧 4｜果蠅全腦模擬：連線圖、神經活動與虛擬身體之間</title>
       <description>精讀 Shiu 2024 的感覺運動預測與活體驗證，區分 Google 連線圖、flybody 身體控制器及後續有身體展示。</description>
       <itunes:summary>精讀 Shiu 2024 的感覺運動預測與活體驗證，區分 Google 連線圖、flybody 身體控制器及後續有身體展示。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-11-fly-connectome-simulation.mp3" length="7168364" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-11-fly-connectome-simulation.mp3" length="7168364" type="audio/mpeg" />
       <guid isPermaLink="false">b47032a3-391b-46b3-8ecf-d4ea6987e3fa</guid>
       <pubDate>Wed, 11 Nov 2026 01:42:04 +0800</pubDate>
       <itunes:duration>0:14:55</itunes:duration>
@@ -94,7 +94,7 @@
       <title>生物智慧 3｜黏菌與東京鐵路：沒有大腦，怎麼長出好網路？</title>
       <description>精讀 Tero 2010：黏菌如何在成本、運輸路徑與容錯間折衷；追蹤流量與管道適應，避免把東京鐵路比較誇成全面勝出。</description>
       <itunes:summary>精讀 Tero 2010：黏菌如何在成本、運輸路徑與容錯間折衷；追蹤流量與管道適應，避免把東京鐵路比較誇成全面勝出。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-11-tero-physarum-tokyo.mp3" length="7127084" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-11-tero-physarum-tokyo.mp3" length="7127084" type="audio/mpeg" />
       <guid isPermaLink="false">d6d4f696-733b-41ef-a81f-3e4cdfbfe179</guid>
       <pubDate>Wed, 11 Nov 2026 01:42:03 +0800</pubDate>
       <itunes:duration>0:14:50</itunes:duration>
@@ -105,7 +105,7 @@
       <title>生物智慧 2｜大腦在學什麼：目標、規則與架構的三角形</title>
       <description>精讀 Richards 2019：以目標函數、學習規則與架構研究大腦；從任務成績走向可反駁的神經預測。</description>
       <itunes:summary>精讀 Richards 2019：以目標函數、學習規則與架構研究大腦；從任務成績走向可反駁的神經預測。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-11-richards-deep-framework.mp3" length="7076012" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-11-richards-deep-framework.mp3" length="7076012" type="audio/mpeg" />
       <guid isPermaLink="false">fcdcb751-ba80-4db0-a05f-9250dc0347d9</guid>
       <pubDate>Wed, 11 Nov 2026 01:42:02 +0800</pubDate>
       <itunes:duration>0:14:44</itunes:duration>
@@ -116,7 +116,7 @@
       <title>生物智慧 1｜一個全域回饋，怎麼讓該改的神經元多改一點？</title>
       <description>精讀 Legenstein 2010：局部活動偏差如何結合全域回饋，解釋腦機介面的選擇性重組；區分模型可行性與生物機制證明。</description>
       <itunes:summary>精讀 Legenstein 2010：局部活動偏差如何結合全域回饋，解釋腦機介面的選擇性重組；區分模型可行性與生物機制證明。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-11-legenstein-reward-hebb.mp3" length="7138028" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-11-legenstein-reward-hebb.mp3" length="7138028" type="audio/mpeg" />
       <guid isPermaLink="false">157faf0c-4871-4c3e-b20d-a839801c1139</guid>
       <pubDate>Wed, 11 Nov 2026 01:42:01 +0800</pubDate>
       <itunes:duration>0:14:52</itunes:duration>
@@ -127,7 +127,7 @@
       <title>獎勵如何往前傳 3｜RUDDER：把終點獎賞，分回改變預測的步驟</title>
       <description>RUDDER如何分解回報預測，將延遲獎賞分回關鍵事件；區分貢獻歸因、真實因果與反向傳播的角色。</description>
       <itunes:summary>RUDDER如何分解回報預測，將延遲獎賞分回關鍵事件；區分貢獻歸因、真實因果與反向傳播的角色。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-reward-credit-rudder.mp3" length="7553708" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-reward-credit-rudder.mp3" length="7553708" type="audio/mpeg" />
       <guid isPermaLink="false">eaae7782-4f1b-5060-b46b-90fbf4d1fa4c</guid>
       <pubDate>Tue, 10 Nov 2026 16:01:09 +0800</pubDate>
       <itunes:duration>0:15:44</itunes:duration>
@@ -138,7 +138,7 @@
       <title>獎勵如何往前傳 2｜Reward shaping：給進度分，怎樣才不會刷分？</title>
       <description>用potential-based reward shaping提供進度回饋，理解最佳策略不變的條件、終點邊界，以及刷分風險。</description>
       <itunes:summary>用potential-based reward shaping提供進度回饋，理解最佳策略不變的條件、終點邊界，以及刷分風險。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-reward-credit-shaping.mp3" length="7453676" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-reward-credit-shaping.mp3" length="7453676" type="audio/mpeg" />
       <guid isPermaLink="false">d3c69587-8306-5dde-ae66-109795f33367</guid>
       <pubDate>Tue, 10 Nov 2026 16:01:08 +0800</pubDate>
       <itunes:duration>0:15:31</itunes:duration>
@@ -149,7 +149,7 @@
       <title>獎勵如何往前傳 1｜TD learning：不用等終點，也能學嗎？</title>
       <description>從前後價值預測差異學習：TD誤差、bootstrap與資格跡，為什麼提前學習不等於沿途多發獎賞。</description>
       <itunes:summary>從前後價值預測差異學習：TD誤差、bootstrap與資格跡，為什麼提前學習不等於沿途多發獎賞。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-reward-credit-td.mp3" length="7545068" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-reward-credit-td.mp3" length="7545068" type="audio/mpeg" />
       <guid isPermaLink="false">7c9e93d7-9402-5bce-b26e-74db0b654de6</guid>
       <pubDate>Tue, 10 Nov 2026 16:01:07 +0800</pubDate>
       <itunes:duration>0:15:43</itunes:duration>
@@ -160,7 +160,7 @@
       <title>超越反向傳播 4｜演化策略：不用反傳，代價換到哪裡？</title>
       <description>用參數擾動和回報估計學習方向，區分平行速度、樣本效率與長程任務的探索難題。</description>
       <itunes:summary>用參數擾動和回報估計學習方向，區分平行速度、樣本效率與長程任務的探索難題。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-beyond-backprop-evolution-strategies.mp3" length="7612460" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-beyond-backprop-evolution-strategies.mp3" length="7612460" type="audio/mpeg" />
       <guid isPermaLink="false">6052294c-f3b6-5a35-9d22-712d5c8464a2</guid>
       <pubDate>Tue, 10 Nov 2026 13:02:19 +0800</pubDate>
       <itunes:duration>0:15:51</itunes:duration>
@@ -171,7 +171,7 @@
       <title>超越反向傳播 3｜Forward-Forward：兩次前向，真的不需要梯度嗎？</title>
       <description>精讀 Forward-Forward 的正負資料、局部 goodness 與正規化；區分不做跨層反傳與完全不用梯度。</description>
       <itunes:summary>精讀 Forward-Forward 的正負資料、局部 goodness 與正規化；區分不做跨層反傳與完全不用梯度。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-beyond-backprop-forward-forward.mp3" length="7319852" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-beyond-backprop-forward-forward.mp3" length="7319852" type="audio/mpeg" />
       <guid isPermaLink="false">c6a8d148-3966-512d-a851-27ccfb7e43a9</guid>
       <pubDate>Tue, 10 Nov 2026 13:02:18 +0800</pubDate>
       <itunes:duration>0:15:14</itunes:duration>
@@ -182,7 +182,7 @@
       <title>超越反向傳播 2｜預測編碼：局部誤差能教會深層網路嗎？</title>
       <description>用局部預測誤差調整活動與權重，理解預測編碼近似反向傳播的條件，以及推論迭代與回饋訊號的成本。</description>
       <itunes:summary>用局部預測誤差調整活動與權重，理解預測編碼近似反向傳播的條件，以及推論迭代與回饋訊號的成本。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-beyond-backprop-predictive-coding.mp3" length="7353836" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-beyond-backprop-predictive-coding.mp3" length="7353836" type="audio/mpeg" />
       <guid isPermaLink="false">4a07c836-3eb4-5c48-8e10-99a852a7139e</guid>
       <pubDate>Tue, 10 Nov 2026 13:02:17 +0800</pubDate>
       <itunes:duration>0:15:19</itunes:duration>
@@ -193,7 +193,7 @@
       <title>超越反向傳播 1｜多巴胺與突觸標記，如何分配延遲的功勞？</title>
       <description>從突觸資格痕跡、三因素學習到 e-prop：延遲回饋如何找到相關連結，為何仍未自動解決所有深層功勞分配。</description>
       <itunes:summary>從突觸資格痕跡、三因素學習到 e-prop：延遲回饋如何找到相關連結，為何仍未自動解決所有深層功勞分配。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-beyond-backprop-eligibility.mp3" length="7238636" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-10-beyond-backprop-eligibility.mp3" length="7238636" type="audio/mpeg" />
       <guid isPermaLink="false">85c57af5-5ba0-5f14-8c19-ad00bc2e4689</guid>
       <pubDate>Tue, 10 Nov 2026 13:02:16 +0800</pubDate>
       <itunes:duration>0:15:04</itunes:duration>
@@ -204,7 +204,7 @@
       <title>DeltaHippo｜不用重播舊資料，如何保住模型自己用得上的知識？</title>
       <description>精讀未審稿預印本 DeltaHippo：幾何索引、Adam 前後約束、近似類別衝突，以及可解碼不等於模型自己用得上；同時檢查新學習、成本與證據限制。</description>
       <itunes:summary>精讀未審稿預印本 DeltaHippo：幾何索引、Adam 前後約束、近似類別衝突，以及可解碼不等於模型自己用得上；同時檢查新學習、成本與證據限制。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-deltahippo.mp3" length="15900908" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-deltahippo.mp3" length="15900908" type="audio/mpeg" />
       <guid isPermaLink="false">f36d4e08-9230-4f3f-a883-1686825bd5bb</guid>
       <pubDate>Sat, 07 Nov 2026 11:03:00 +0800</pubDate>
       <itunes:duration>0:33:07</itunes:duration>
@@ -215,7 +215,7 @@
       <title>JEPA 持續學習先備課 7｜另一條防崩塌路線，與持續適應的邊界</title>
       <description>比較 LeJEPA 的分布正則化、持續自監督學習地圖，以及 JEPA-TTT 適應與保留的證據界線。</description>
       <itunes:summary>比較 LeJEPA 的分布正則化、持續自監督學習地圖，以及 JEPA-TTT 適應與保留的證據界線。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-jepa-recent-directions.mp3" length="6559916" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-jepa-recent-directions.mp3" length="6559916" type="audio/mpeg" />
       <guid isPermaLink="false">3a15fed5-ee9e-463f-a6ee-303ab8ed83ac</guid>
       <pubDate>Sat, 07 Nov 2026 01:50:56 +0800</pubDate>
       <itunes:duration>0:13:39</itunes:duration>
@@ -226,7 +226,7 @@
       <title>JEPA 持續學習先備課 6｜先學會量測：實作管線、讀出與遺忘的教學例子</title>
       <description>透過可執行教學例子，理解表徵變換、資訊損失與研究評估。</description>
       <itunes:summary>透過可執行教學例子，理解表徵變換、資訊損失與研究評估。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-representation-evaluation.mp3" length="7715372" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-representation-evaluation.mp3" length="7715372" type="audio/mpeg" />
       <guid isPermaLink="false">78387913-9c98-48cc-8b22-4ba5894a394a</guid>
       <pubDate>Sat, 07 Nov 2026 01:47:23 +0800</pubDate>
       <itunes:duration>0:16:04</itunes:duration>
@@ -237,7 +237,7 @@
       <title>JEPA 持續學習先備課 5｜模型整理不是一個動作：壓縮、蒸餾與自動化</title>
       <description>區分記憶、壓縮、技能化與模型整理，釐清生物類比的證據界線。</description>
       <itunes:summary>區分記憶、壓縮、技能化與模型整理，釐清生物類比的證據界線。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-memory-reorganization.mp3" length="7251884" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-memory-reorganization.mp3" length="7251884" type="audio/mpeg" />
       <guid isPermaLink="false">15a322ec-9b7e-4328-b3d7-9aa36c12f6d2</guid>
       <pubDate>Sat, 07 Nov 2026 01:45:10 +0800</pubDate>
       <itunes:duration>0:15:06</itunes:duration>
@@ -248,7 +248,7 @@
       <title>JEPA 持續學習先備課 4｜分數掉了，先別急著說知識不見</title>
       <description>從固定讀出、重訓讀出與表徵分析，診斷舊能力為何下降。</description>
       <itunes:summary>從固定讀出、重訓讀出與表徵分析，診斷舊能力為何下降。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-forgetting-diagnostics.mp3" length="7864172" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-forgetting-diagnostics.mp3" length="7864172" type="audio/mpeg" />
       <guid isPermaLink="false">9ffd0b72-2a4d-4d00-bca4-ad0e15d14659</guid>
       <pubDate>Sat, 07 Nov 2026 01:42:57 +0800</pubDate>
       <itunes:duration>0:16:22</itunes:duration>
@@ -259,7 +259,7 @@
       <title>JEPA 持續學習先備課 3｜無標籤學習，也需要公平的成績單</title>
       <description>釐清持續學習協定、遺忘指標與基線，避免不公平比較。</description>
       <itunes:summary>釐清持續學習協定、遺忘指標與基線，避免不公平比較。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-continual-learning-foundations.mp3" length="7678892" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-continual-learning-foundations.mp3" length="7678892" type="audio/mpeg" />
       <guid isPermaLink="false">d9ec917d-640d-42fc-b394-a83fd4906ec0</guid>
       <pubDate>Sat, 07 Nov 2026 01:40:43 +0800</pubDate>
       <itunes:duration>0:15:59</itunes:duration>
@@ -270,7 +270,7 @@
       <title>JEPA 持續學習先備課 2｜讀懂訓練動態：梯度、漂移與能力的三種測驗</title>
       <description>追蹤 JEPA 的資料、梯度與 EMA 更新，分辨低損失和有用表徵。</description>
       <itunes:summary>追蹤 JEPA 的資料、梯度與 EMA 更新，分辨低損失和有用表徵。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-jepa-architecture.mp3" length="7792940" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-jepa-architecture.mp3" length="7792940" type="audio/mpeg" />
       <guid isPermaLink="false">3080f4b6-64f7-4b87-b95e-6bc43cb64acd</guid>
       <pubDate>Sat, 07 Nov 2026 01:38:31 +0800</pubDate>
       <itunes:duration>0:16:14</itunes:duration>
@@ -281,7 +281,7 @@
       <title>JEPA 持續學習先備課 1｜從數字到表徵：模型究竟學到了什麼</title>
       <description>以直覺、梯度與小例子建立表徵學習、自監督與評估的共同語言。</description>
       <itunes:summary>以直覺、梯度與小例子建立表徵學習、自監督與評估的共同語言。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-jepa-foundations.mp3" length="7685228" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-07-jepa-foundations.mp3" length="7685228" type="audio/mpeg" />
       <guid isPermaLink="false">b13b82b5-4eb0-490a-b8e0-902d3fae94ca</guid>
       <pubDate>Sat, 07 Nov 2026 01:36:17 +0800</pubDate>
       <itunes:duration>0:16:00</itunes:duration>
@@ -290,12 +290,12 @@
     </item>
     <item>
       <title>延伸閱讀 39｜學不動了：深度持續學習的可塑性喪失</title>
-      <description>Dohare 等 2024：可塑性喪失與持續反向傳播。</description>
-      <itunes:summary>Dohare 等 2024：可塑性喪失與持續反向傳播。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-39-dohare-2024.mp3" length="2417132" type="audio/mpeg"/>
+      <description>Dohare 等 2024 深度導讀：區分可塑性喪失與遺忘，核對 ImageNet、CIFAR 和強化學習考法；用效用、成熟期與重設算例理解 Continual Backpropagation，附三題自測。</description>
+      <itunes:summary>Dohare 等 2024 深度導讀：區分可塑性喪失與遺忘，核對 ImageNet、CIFAR 和強化學習考法；用效用、成熟期與重設算例理解 Continual Backpropagation，附三題自測。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-39-dohare-2024.mp3" length="7772204" type="audio/mpeg" />
       <guid isPermaLink="false">4c99ff2b-4eae-4db9-bda9-13891171bb00</guid>
       <pubDate>Thu, 05 Nov 2026 22:48:00 +0800</pubDate>
-      <itunes:duration>0:05:02</itunes:duration>
+      <itunes:duration>0:16:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -303,7 +303,7 @@
       <title>延伸閱讀 38｜睡眠：為可塑性付帳單</title>
       <description>Tononi 與 Cirelli 2014：突觸穩態假說。</description>
       <itunes:summary>Tononi 與 Cirelli 2014：突觸穩態假說。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-38-tononi-cirelli-2014.mp3" length="1878956" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-38-tononi-cirelli-2014.mp3" length="1878956" type="audio/mpeg" />
       <guid isPermaLink="false">13b0b5ec-5a87-4ec9-9132-4c2841cb7855</guid>
       <pubDate>Thu, 05 Nov 2026 22:47:00 +0800</pubDate>
       <itunes:duration>0:03:54</itunes:duration>
@@ -314,7 +314,7 @@
       <title>延伸閱讀 37｜主動遺忘：多巴胺與 R-A-C-1</title>
       <description>Davis 與 Zhong 2017：果蠅裡的主動遺忘分子路徑。</description>
       <itunes:summary>Davis 與 Zhong 2017：果蠅裡的主動遺忘分子路徑。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-37-davis-zhong-2017.mp3" length="2075564" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-37-davis-zhong-2017.mp3" length="2075564" type="audio/mpeg" />
       <guid isPermaLink="false">d5410649-7f60-4833-9b1b-f82dceaaea15</guid>
       <pubDate>Thu, 05 Nov 2026 22:46:00 +0800</pubDate>
       <itunes:duration>0:04:19</itunes:duration>
@@ -325,7 +325,7 @@
       <title>延伸閱讀 36｜遺忘是一種學習：痕跡還在，只是叫不醒</title>
       <description>Ryan 與 Frankland 2022：可及性切換與適應性遺忘。</description>
       <itunes:summary>Ryan 與 Frankland 2022：可及性切換與適應性遺忘。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-36-ryan-frankland-2022.mp3" length="2052716" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-36-ryan-frankland-2022.mp3" length="2052716" type="audio/mpeg" />
       <guid isPermaLink="false">e2938db8-b878-423e-91c4-a6e6679b6caf</guid>
       <pubDate>Thu, 05 Nov 2026 22:45:00 +0800</pubDate>
       <itunes:duration>0:04:16</itunes:duration>
@@ -336,7 +336,7 @@
       <title>延伸閱讀 35｜遺忘為什麼可能是功能，不是故障</title>
       <description>Richards 與 Frankland 2017：遺忘可以服務決策與泛化。</description>
       <itunes:summary>Richards 與 Frankland 2017：遺忘可以服務決策與泛化。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-35-richards-frankland-2017.mp3" length="2171180" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-35-richards-frankland-2017.mp3" length="2171180" type="audio/mpeg" />
       <guid isPermaLink="false">d417f7d3-b2d6-42df-9cc5-f21d7f8bd11d</guid>
       <pubDate>Thu, 05 Nov 2026 22:44:00 +0800</pubDate>
       <itunes:duration>0:04:31</itunes:duration>
@@ -347,7 +347,7 @@
       <title>延伸閱讀 34｜STaR：用自己答對的推理來教自己</title>
       <description>Zelikman 等 2022：自我生成推理的訓練迴圈，以及它與重播的距離。</description>
       <itunes:summary>Zelikman 等 2022：自我生成推理的訓練迴圈，以及它與重播的距離。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-34-star.mp3" length="3283436" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-34-star.mp3" length="3283436" type="audio/mpeg" />
       <guid isPermaLink="false">0bbbea54-102d-47f7-b7cb-9ec628af897e</guid>
       <pubDate>Thu, 05 Nov 2026 21:09:00 +0800</pubDate>
       <itunes:duration>0:06:50</itunes:duration>
@@ -358,7 +358,7 @@
       <title>延伸閱讀 33｜MemGPT：讓語言模型自己管理記憶</title>
       <description>Packer 等：把 LLM 當作業系統管理記憶分層。</description>
       <itunes:summary>Packer 等：把 LLM 當作業系統管理記憶分層。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-33-memgpt.mp3" length="3272108" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-33-memgpt.mp3" length="3272108" type="audio/mpeg" />
       <guid isPermaLink="false">159ac870-11c9-474a-9383-d006d114a9bc</guid>
       <pubDate>Thu, 05 Nov 2026 21:08:00 +0800</pubDate>
       <itunes:duration>0:06:48</itunes:duration>
@@ -369,7 +369,7 @@
       <title>延伸閱讀 32｜可微分神經計算機：給神經網路一本可以讀寫的筆記本</title>
       <description>Graves 等 2016 Nature：可微分外部記憶、分配與時間連結。</description>
       <itunes:summary>Graves 等 2016 Nature：可微分外部記憶、分配與時間連結。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-32-dnc.mp3" length="3333932" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-32-dnc.mp3" length="3333932" type="audio/mpeg" />
       <guid isPermaLink="false">3535e3aa-150b-4000-b3bd-2f2ea1398bd6</guid>
       <pubDate>Thu, 05 Nov 2026 21:07:00 +0800</pubDate>
       <itunes:duration>0:06:56</itunes:duration>
@@ -380,7 +380,7 @@
       <title>延伸閱讀 31｜情節控制：只記住最好的那一次</title>
       <description>Blundell 等 2016 MFEC 與 NEC：海馬迴式的一次學習。</description>
       <itunes:summary>Blundell 等 2016 MFEC 與 NEC：海馬迴式的一次學習。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-31-episodic-control.mp3" length="3308972" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-31-episodic-control.mp3" length="3308972" type="audio/mpeg" />
       <guid isPermaLink="false">0af8fde8-9d18-4306-84ca-771ba00778c4</guid>
       <pubDate>Thu, 05 Nov 2026 21:06:00 +0800</pubDate>
       <itunes:duration>0:06:53</itunes:duration>
@@ -391,7 +391,7 @@
       <title>延伸閱讀 30｜快權重：讓神經網路記住剛剛發生的事</title>
       <description>Ba 等 2016：會衰減的 Hebb 快權重，以及它與線性注意力的關係。</description>
       <itunes:summary>Ba 等 2016：會衰減的 Hebb 快權重，以及它與線性注意力的關係。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-30-fast-weights.mp3" length="3652076" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-30-fast-weights.mp3" length="3652076" type="audio/mpeg" />
       <guid isPermaLink="false">b2170417-3b4e-4a3e-b8aa-2acd44959440</guid>
       <pubDate>Thu, 05 Nov 2026 21:05:00 +0800</pubDate>
       <itunes:duration>0:07:36</itunes:duration>
@@ -402,7 +402,7 @@
       <title>延伸閱讀 29｜突觸標記與捕獲：短期增強怎麼變成長期記憶</title>
       <description>Frey &amp; Morris 1997：早期 LTP 留下標記，蛋白質決定能否變成長期記憶。</description>
       <itunes:summary>Frey &amp; Morris 1997：早期 LTP 留下標記，蛋白質決定能否變成長期記憶。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-29-synaptic-tagging.mp3" length="3608876" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-29-synaptic-tagging.mp3" length="3608876" type="audio/mpeg" />
       <guid isPermaLink="false">8f328a77-a1dd-4bf5-ba9a-708cfc4e998b</guid>
       <pubDate>Thu, 05 Nov 2026 21:04:00 +0800</pubDate>
       <itunes:duration>0:07:31</itunes:duration>
@@ -413,7 +413,7 @@
       <title>延伸閱讀 28｜銳波漣漪：海馬迴在睡覺時重播什麼</title>
       <description>銳波漣漪的產生機制、壓縮重播，以及截斷漣漪會傷害記憶的因果證據。</description>
       <itunes:summary>銳波漣漪的產生機制、壓縮重播，以及截斷漣漪會傷害記憶的因果證據。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-28-swr.mp3" length="3286508" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-28-swr.mp3" length="3286508" type="audio/mpeg" />
       <guid isPermaLink="false">1ed25738-a807-406d-a220-072de54b28d3</guid>
       <pubDate>Thu, 05 Nov 2026 21:03:00 +0800</pubDate>
       <itunes:duration>0:06:50</itunes:duration>
@@ -424,7 +424,7 @@
       <title>延伸閱讀 27｜CLS 二十年後：重播會挑重點，皮質也能學得快</title>
       <description>CLS 理論的更新：加權重播、schema 快速鞏固，以及 DQN 的 experience replay。</description>
       <itunes:summary>CLS 理論的更新：加權重播、schema 快速鞏固，以及 DQN 的 experience replay。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-27-cls-2016.mp3" length="3555116" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-27-cls-2016.mp3" length="3555116" type="audio/mpeg" />
       <guid isPermaLink="false">f275cd50-1960-4bc8-9515-a500ad1337e0</guid>
       <pubDate>Thu, 05 Nov 2026 21:02:00 +0800</pubDate>
       <itunes:duration>0:07:24</itunes:duration>
@@ -435,7 +435,7 @@
       <title>延伸閱讀 26｜為什麼大腦要有兩套學習系統：CLS 1995</title>
       <description>互補學習系統理論的源頭：交錯學習、企鵝實驗與雙儲存鞏固模型。</description>
       <itunes:summary>互補學習系統理論的源頭：交錯學習、企鵝實驗與雙儲存鞏固模型。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-26-cls-1995.mp3" length="3817772" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-26-cls-1995.mp3" length="3817772" type="audio/mpeg" />
       <guid isPermaLink="false">950aa638-fc54-406b-955d-debd8bbb06cb</guid>
       <pubDate>Thu, 05 Nov 2026 21:01:00 +0800</pubDate>
       <itunes:duration>0:07:57</itunes:duration>
@@ -446,7 +446,7 @@
       <title>延伸閱讀 25｜Titans：用意外程度決定要記什麼</title>
       <description>測試時更新的神經長期記憶：surprise 決定寫入、動量讓驚訝延續、遺忘閘門清掉舊記憶。</description>
       <itunes:summary>測試時更新的神經長期記憶：surprise 決定寫入、動量讓驚訝延續、遺忘閘門清掉舊記憶。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-25-titans.mp3" length="3434540" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-25-titans.mp3" length="3434540" type="audio/mpeg" />
       <guid isPermaLink="false">03a122fb-e6a8-4e00-88a6-fd782d7ece11</guid>
       <pubDate>Thu, 05 Nov 2026 18:41:00 +0800</pubDate>
       <itunes:duration>0:07:09</itunes:duration>
@@ -457,7 +457,7 @@
       <title>延伸閱讀 24｜CLS-ER：學得快，也學得慢</title>
       <description>用一快一慢兩個影子模型加上 replay，把互補學習系統理論搬進持續學習。</description>
       <itunes:summary>用一快一慢兩個影子模型加上 replay，把互補學習系統理論搬進持續學習。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-24-cls-er.mp3" length="3258668" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-24-cls-er.mp3" length="3258668" type="audio/mpeg" />
       <guid isPermaLink="false">8c66f387-9c4e-4e3b-a9ed-72a142be074e</guid>
       <pubDate>Thu, 05 Nov 2026 18:40:00 +0800</pubDate>
       <itunes:duration>0:06:47</itunes:duration>
@@ -468,7 +468,7 @@
       <title>延伸閱讀 23｜GPT 把事實存在哪裡：ROME</title>
       <description>因果追蹤找到中間層 MLP，再用秩一更新改寫一個事實（Meng 等 2022）</description>
       <itunes:summary>因果追蹤找到中間層 MLP，再用秩一更新改寫一個事實（Meng 等 2022）</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-23-rome.mp3" length="3708332" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-23-rome.mp3" length="3708332" type="audio/mpeg" />
       <guid isPermaLink="false">4a8924ad-c112-40fe-9011-c223e04bcdf0</guid>
       <pubDate>Thu, 05 Nov 2026 16:26:17 +0800</pubDate>
       <itunes:duration>0:07:43</itunes:duration>
@@ -479,7 +479,7 @@
       <title>延伸閱讀 22｜接線成本讓網路長出大腦的樞紐：seRNN</title>
       <description>讓長連線變貴，循環網路自己長出模組、小世界和記憶核心（Achterberg 等 2023）</description>
       <itunes:summary>讓長連線變貴，循環網路自己長出模組、小世界和記憶核心（Achterberg 等 2023）</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-22-sernn.mp3" length="3680492" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-22-sernn.mp3" length="3680492" type="audio/mpeg" />
       <guid isPermaLink="false">ec58294b-4517-465a-807d-6eb61a5adf01</guid>
       <pubDate>Thu, 05 Nov 2026 16:23:14 +0800</pubDate>
       <itunes:duration>0:07:39</itunes:duration>
@@ -490,7 +490,7 @@
       <title>延伸閱讀 21｜MGTX 血清蛋白質體：預測誰適合開胸腺，和一個藏起來的陷阱</title>
       <description>用胸腺切除試驗的血清蛋白質體預測治療反應，並拆解特徵篩選洩漏：為什麼巢狀交叉驗證也擋不住它。</description>
       <itunes:summary>用胸腺切除試驗的血清蛋白質體預測治療反應，並拆解特徵篩選洩漏：為什麼巢狀交叉驗證也擋不住它。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-04-further-reading-21-mgtx-proteomics.mp3" length="5923244" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-04-further-reading-21-mgtx-proteomics.mp3" length="5923244" type="audio/mpeg" />
       <guid isPermaLink="false">e6ed302a-b366-4861-bd19-95f2288569d7</guid>
       <pubDate>Wed, 04 Nov 2026 01:43:00 +0800</pubDate>
       <itunes:duration>0:12:20</itunes:duration>
@@ -501,7 +501,7 @@
       <title>延伸閱讀 20｜MyaLink：用手錶、肺量計和手機，提早幾天看到重症肌無力惡化</title>
       <description>穿戴裝置加病人自評的惡化預測：惡化前模板、相似度加權、留一人交叉驗證，和用每週誤報數畫的 ROC。</description>
       <itunes:summary>穿戴裝置加病人自評的惡化預測：惡化前模板、相似度加權、留一人交叉驗證，和用每週誤報數畫的 ROC。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-04-further-reading-20-myalink.mp3" length="6635564" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-04-further-reading-20-myalink.mp3" length="6635564" type="audio/mpeg" />
       <guid isPermaLink="false">7cf641ea-2c51-4581-a5f1-ce0826b380c0</guid>
       <pubDate>Wed, 04 Nov 2026 01:42:00 +0800</pubDate>
       <itunes:duration>0:13:49</itunes:duration>
@@ -512,7 +512,7 @@
       <title>延伸閱讀 19｜重症肌無力的機器學習全景：AUC 很高，為什麼還不能上線</title>
       <description>一篇系統性回顧，檢查 11 篇 MG 機器學習研究：PROBAST、外部驗證的等級、校準，以及 AUC 0.944 背後的時間切分。</description>
       <itunes:summary>一篇系統性回顧，檢查 11 篇 MG 機器學習研究：PROBAST、外部驗證的等級、校準，以及 AUC 0.944 背後的時間切分。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-04-further-reading-19-mg-ml-review.mp3" length="5862188" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-04-further-reading-19-mg-ml-review.mp3" length="5862188" type="audio/mpeg" />
       <guid isPermaLink="false">af745a09-480d-4f8c-960c-7d5f413abb5e</guid>
       <pubDate>Wed, 04 Nov 2026 01:41:00 +0800</pubDate>
       <itunes:duration>0:12:12</itunes:duration>
@@ -523,7 +523,7 @@
       <title>延伸閱讀 18｜重症肌無力入門：抗體怎麼堵住神經和肌肉之間的信箱</title>
       <description>從神經肌肉接頭的安全係數講起：AChR、MuSK、LRP4 抗體，胸腺，診斷與量表，肌無力危象，以及補體、FcRn、B 細胞與 CAR-T 等新治療。</description>
       <itunes:summary>從神經肌肉接頭的安全係數講起：AChR、MuSK、LRP4 抗體，胸腺，診斷與量表，肌無力危象，以及補體、FcRn、B 細胞與 CAR-T 等新治療。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-04-further-reading-18-mg-intro.mp3" length="8505836" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-04-further-reading-18-mg-intro.mp3" length="8505836" type="audio/mpeg" />
       <guid isPermaLink="false">b0e72b25-a304-4802-b196-d420852c24ee</guid>
       <pubDate>Wed, 04 Nov 2026 01:40:00 +0800</pubDate>
       <itunes:duration>0:17:43</itunes:duration>
@@ -534,7 +534,7 @@
       <title>延伸閱讀 17｜iCaRL：存幾張代表圖，用模板來分類</title>
       <description>iCaRL 怎麼在固定記憶體下每類存幾張代表圖，用「離哪個平均最近」分類，避開偏向新類別的問題。</description>
       <itunes:summary>iCaRL 怎麼在固定記憶體下每類存幾張代表圖，用「離哪個平均最近」分類，避開偏向新類別的問題。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-02-further-reading-17-icarl.mp3" length="8725100" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-02-further-reading-17-icarl.mp3" length="8725100" type="audio/mpeg" />
       <guid isPermaLink="false">6f0c9e8e-bfe5-4215-bc36-7d5b50d8ba5f</guid>
       <pubDate>Mon, 02 Nov 2026 21:16:04 +0800</pubDate>
       <itunes:duration>0:18:10</itunes:duration>
@@ -545,7 +545,7 @@
       <title>延伸閱讀 16｜JEPA：不畫像素，在抽象空間裡預測世界</title>
       <description>導讀 LeCun 2022 的世界模型藍圖，以及 I-JEPA、V-JEPA、V-JEPA 2：為什麼在表徵空間預測而不是畫像素、怎麼防止崩塌（EMA 與 stop-gradient）、遮罩設計，以及從圖片、影片到機器手臂規劃的主要結果與限制。約 17 分鐘。</description>
       <itunes:summary>導讀 LeCun 2022 的世界模型藍圖，以及 I-JEPA、V-JEPA、V-JEPA 2：為什麼在表徵空間預測而不是畫像素、怎麼防止崩塌（EMA 與 stop-gradient）、遮罩設計，以及從圖片、影片到機器手臂規劃的主要結果與限制。約 17 分鐘。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-01-further-reading-16-jepa.mp3" length="8348396" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-01-further-reading-16-jepa.mp3" length="8348396" type="audio/mpeg" />
       <guid isPermaLink="false">13aa69b4-6e89-4155-a90d-018456eeabb8</guid>
       <pubDate>Sun, 01 Nov 2026 22:50:30 +0800</pubDate>
       <itunes:duration>0:17:23</itunes:duration>
@@ -556,7 +556,7 @@
       <title>延伸閱讀 15｜Controlled Forgetting：讓脈衝網路自己決定忘什麼</title>
       <description>導讀 Allred 與 Roy 2020 年 Frontiers in Neuroscience 論文〈Controlled Forgetting〉：STDP 脈衝網路依序學習的兩種失敗、偵測新東西的多巴胺神經元、學習率跳到一的一次學習、挑最少用神經元的多巴胺權重、閾值與夾角的關係、依序學 0 到 9 的結果與要小心的比較，以及自製小玩具（自行整理部分已標示）。約 23 分鐘。</description>
       <itunes:summary>導讀 Allred 與 Roy 2020 年 Frontiers in Neuroscience 論文〈Controlled Forgetting〉：STDP 脈衝網路依序學習的兩種失敗、偵測新東西的多巴胺神經元、學習率跳到一的一次學習、挑最少用神經元的多巴胺權重、閾值與夾角的關係、依序學 0 到 9 的結果與要小心的比較，以及自製小玩具（自行整理部分已標示）。約 23 分鐘。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-01-further-reading-15-controlled-forgetting.mp3" length="11012012" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-01-further-reading-15-controlled-forgetting.mp3" length="11012012" type="audio/mpeg" />
       <guid isPermaLink="false">f79b4e5b-52c0-4d59-b16d-014514614592</guid>
       <pubDate>Sun, 01 Nov 2026 15:21:00 +0800</pubDate>
       <itunes:duration>0:22:56</itunes:duration>
@@ -567,7 +567,7 @@
       <title>延伸閱讀 14｜三種持續學習：為什麼 EWC 在某些場景會全軍覆沒</title>
       <description>導讀 van de Ven、Tuytelaars 與 Tolias 2022 年 Nature Machine Intelligence 論文〈Three types of incremental learning〉：用兩個問題分出 Task-IL、Domain-IL、Class-IL，「什麼都不做」在 Class-IL 為何約百分之二十，五類策略的公平比較，EWC／SI 在 Class-IL 幾乎完全失敗而重播與模板分類撐住的原因，以及沒有任務邊界的資料流（自行整理部分已標示）。約 21 分鐘。</description>
       <itunes:summary>導讀 van de Ven、Tuytelaars 與 Tolias 2022 年 Nature Machine Intelligence 論文〈Three types of incremental learning〉：用兩個問題分出 Task-IL、Domain-IL、Class-IL，「什麼都不做」在 Class-IL 為何約百分之二十，五類策略的公平比較，EWC／SI 在 Class-IL 幾乎完全失敗而重播與模板分類撐住的原因，以及沒有任務邊界的資料流（自行整理部分已標示）。約 21 分鐘。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-01-further-reading-14-three-types.mp3" length="10282220" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-01-further-reading-14-three-types.mp3" length="10282220" type="audio/mpeg" />
       <guid isPermaLink="false">816a7d3f-6b40-4990-9ad0-4634b042271f</guid>
       <pubDate>Sun, 01 Nov 2026 15:20:00 +0800</pubDate>
       <itunes:duration>0:21:25</itunes:duration>
@@ -578,7 +578,7 @@
       <title>延伸閱讀 13｜Metaplasticity：越確定的突觸越難改</title>
       <description>導讀 Laborieux 等人 2021 年 Nature Communications 論文〈Synaptic metaplasticity in binarized neural networks〉：二值化網路的隱藏權重、f_meta 只減弱「往零走」的更新、打亂手寫數字與 CIFAR 實驗、串流學習、二次函數任務的定理，以及與 Cascade、Benna–Fusi 模型的對照。</description>
       <itunes:summary>導讀 Laborieux 等人 2021 年 Nature Communications 論文〈Synaptic metaplasticity in binarized neural networks〉：二值化網路的隱藏權重、f_meta 只減弱「往零走」的更新、打亂手寫數字與 CIFAR 實驗、串流學習、二次函數任務的定理，以及與 Cascade、Benna–Fusi 模型的對照。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-01-further-reading-13-metaplasticity.mp3" length="13040876" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-01-further-reading-13-metaplasticity.mp3" length="13040876" type="audio/mpeg" />
       <guid isPermaLink="false">4202037c-fe83-4f23-aad6-17c732036bd3</guid>
       <pubDate>Sun, 01 Nov 2026 14:29:42 +0800</pubDate>
       <itunes:duration>0:27:10</itunes:duration>
@@ -589,7 +589,7 @@
       <title>延伸閱讀 12｜MER：讓梯度朝同一個方向划</title>
       <description>依據 Riemer et al. (2019, ICLR) Meta-Experience Replay：transfer／interference 即梯度內積的正負、不共享參數則內積為零、損失減內積的理想目標、蓄水池重播＋每批一例的 Reptile 如何近似、RA／LA／BTI 與 GEM 指標的對應、平均梯度內積由負轉正、消融實驗顯示主要進步來自重播，以及與 Benna &amp; Fusi 訊號的對照（自行整理部分已標示）。約 21 分鐘。</description>
       <itunes:summary>依據 Riemer et al. (2019, ICLR) Meta-Experience Replay：transfer／interference 即梯度內積的正負、不共享參數則內積為零、損失減內積的理想目標、蓄水池重播＋每批一例的 Reptile 如何近似、RA／LA／BTI 與 GEM 指標的對應、平均梯度內積由負轉正、消融實驗顯示主要進步來自重播，以及與 Benna &amp; Fusi 訊號的對照（自行整理部分已標示）。約 21 分鐘。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-31-further-reading-12-mer.mp3" length="10098284" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-31-further-reading-12-mer.mp3" length="10098284" type="audio/mpeg" />
       <guid isPermaLink="false">e9197fdd-2812-4159-9e5d-30839736db25</guid>
       <pubDate>Sat, 31 Oct 2026 11:51:00 +0800</pubDate>
       <itunes:duration>0:21:02</itunes:duration>
@@ -600,7 +600,7 @@
       <title>延伸閱讀 11｜GEM：持續學習的成績單，和不准打架的梯度</title>
       <description>依據 Lopez-Paz &amp; Ranzato (2017, NeurIPS) Gradient Episodic Memory：R 矩陣與 ACC／BWT／FWT 的定義與三任務手算、為什麼 FWT 不等於學習速度（用附錄矩陣重算佐證）、用新舊梯度內積判斷干擾並投影到最近的安全方向、允許正的向後遷移、MNIST／CIFAR100 實驗結果，以及附錄數字除以 T 而非 T−1 等兩處不一致（自行計算部分已標示）。約 21 分鐘。</description>
       <itunes:summary>依據 Lopez-Paz &amp; Ranzato (2017, NeurIPS) Gradient Episodic Memory：R 矩陣與 ACC／BWT／FWT 的定義與三任務手算、為什麼 FWT 不等於學習速度（用附錄矩陣重算佐證）、用新舊梯度內積判斷干擾並投影到最近的安全方向、允許正的向後遷移、MNIST／CIFAR100 實驗結果，以及附錄數字除以 T 而非 T−1 等兩處不一致（自行計算部分已標示）。約 21 分鐘。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-31-further-reading-11-gem.mp3" length="10250732" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-31-further-reading-11-gem.mp3" length="10250732" type="audio/mpeg" />
       <guid isPermaLink="false">8e72eace-643f-437f-b0e6-64cec4472b92</guid>
       <pubDate>Sat, 31 Oct 2026 11:50:00 +0800</pubDate>
       <itunes:duration>0:21:21</itunes:duration>
@@ -611,7 +611,7 @@
       <title>延伸閱讀 10｜Hebbian 加預測：學會不變的物體表徵</title>
       <description>Halvagal &amp; Zenke (2023, Nature Neuroscience) latent predictive learning (LPL)：預測項、赫布項、去相關、與 BCM 的關係、深層網路與脈衝網路的評估、Li &amp; DiCarlo 交換實驗、STDP 與 metaplasticity 預測。與突觸鞏固的連結為自行整理。</description>
       <itunes:summary>Halvagal &amp; Zenke (2023, Nature Neuroscience) latent predictive learning (LPL)：預測項、赫布項、去相關、與 BCM 的關係、深層網路與脈衝網路的評估、Li &amp; DiCarlo 交換實驗、STDP 與 metaplasticity 預測。與突觸鞏固的連結為自行整理。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-19-further-reading-10-latent-predictive-learning.mp3" length="12524012" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-19-further-reading-10-latent-predictive-learning.mp3" length="12524012" type="audio/mpeg" />
       <guid isPermaLink="false">6700c9f1-a62e-4795-b7f7-ff5e083a722c</guid>
       <pubDate>Mon, 19 Oct 2026 20:58:00 +0800</pubDate>
       <itunes:duration>0:26:05</itunes:duration>
@@ -622,7 +622,7 @@
       <title>延伸閱讀 9｜怎麼量遺忘：eval 與 benchmark</title>
       <description>理論模型的評估、Permuted/Split MNIST、Split CIFAR、三種 continual learning 情境 (van de Ven &amp; Tolias 2019)、ACC/BWT/FWT (GEM)、forgetting measure (Chaudhry et al. 2018)、EWC/SI 的評估、LLM 微調遺忘 (TRACE 等)、Diehl &amp; Cook (2015) 的評估。建議部分已標示。</description>
       <itunes:summary>理論模型的評估、Permuted/Split MNIST、Split CIFAR、三種 continual learning 情境 (van de Ven &amp; Tolias 2019)、ACC/BWT/FWT (GEM)、forgetting measure (Chaudhry et al. 2018)、EWC/SI 的評估、LLM 微調遺忘 (TRACE 等)、Diehl &amp; Cook (2015) 的評估。建議部分已標示。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-19-further-reading-09-eval-benchmark.mp3" length="12919916" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-19-further-reading-09-eval-benchmark.mp3" length="12919916" type="audio/mpeg" />
       <guid isPermaLink="false">19459114-b0c6-4359-b608-8c2ceb3d28ac</guid>
       <pubDate>Mon, 19 Oct 2026 20:56:00 +0800</pubDate>
       <itunes:duration>0:26:54</itunes:duration>
@@ -633,7 +633,7 @@
       <title>延伸閱讀 8｜Hopfield network：網路怎麼把記憶叫回來</title>
       <description>Hopfield (1982, PNAS) 能量函數、非同步更新、約 0.15N 容量與訊雜比估算、截斷權重的 palimpsest；Amit-Gutfreund-Sompolinsky (1985)；modern Hopfield (Krotov &amp; Hopfield 2016; Ramsauer et al. 2020)。自行模擬已標示。</description>
       <itunes:summary>Hopfield (1982, PNAS) 能量函數、非同步更新、約 0.15N 容量與訊雜比估算、截斷權重的 palimpsest；Amit-Gutfreund-Sompolinsky (1985)；modern Hopfield (Krotov &amp; Hopfield 2016; Ramsauer et al. 2020)。自行模擬已標示。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-19-further-reading-08-hopfield.mp3" length="11497772" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-19-further-reading-08-hopfield.mp3" length="11497772" type="audio/mpeg" />
       <guid isPermaLink="false">decca488-3357-4bd7-b4ac-50563c3a7df3</guid>
       <pubDate>Mon, 19 Oct 2026 20:54:00 +0800</pubDate>
       <itunes:duration>0:23:57</itunes:duration>
@@ -644,7 +644,7 @@
       <title>延伸閱讀 7｜Lahiri &amp; Ganguli（下）：記憶前緣（memory frontier）</title>
       <description>Lahiri &amp; Ganguli (2013) 導讀下集：記憶曲線的 envelope、壽命上界、Fig. 4 的數值最佳化與手工設計模型、開放問題（含附錄內容；自行計算部分已標示）。</description>
       <itunes:summary>Lahiri &amp; Ganguli (2013) 導讀下集：記憶曲線的 envelope、壽命上界、Fig. 4 的數值最佳化與手工設計模型、開放問題（含附錄內容；自行計算部分已標示）。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-19-further-reading-07-lahiri-ganguli-2.mp3" length="11298860" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-19-further-reading-07-lahiri-ganguli-2.mp3" length="11298860" type="audio/mpeg" />
       <guid isPermaLink="false">5251cda9-4ee5-4c6e-91d6-1e1c6a27b80a</guid>
       <pubDate>Mon, 19 Oct 2026 20:52:00 +0800</pubDate>
       <itunes:duration>0:23:32</itunes:duration>
@@ -655,7 +655,7 @@
       <title>延伸閱讀 6｜Lahiri &amp; Ganguli（上）：用一個框架看所有突觸模型</title>
       <description>Lahiri &amp; Ganguli (2013, NeurIPS) A memory frontier for complex synapses 導讀上集：Markov 突觸模型、SNR 與雜訊、初始 SNR 上界與面積上界、serial/cascade 的數字例子（自行計算部分已標示）。</description>
       <itunes:summary>Lahiri &amp; Ganguli (2013, NeurIPS) A memory frontier for complex synapses 導讀上集：Markov 突觸模型、SNR 與雜訊、初始 SNR 上界與面積上界、serial/cascade 的數字例子（自行計算部分已標示）。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-19-further-reading-06-lahiri-ganguli-1.mp3" length="11783852" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-19-further-reading-06-lahiri-ganguli-1.mp3" length="11783852" type="audio/mpeg" />
       <guid isPermaLink="false">b4f8ee41-0020-49f1-87ae-049ca88bb898</guid>
       <pubDate>Mon, 19 Oct 2026 20:50:00 +0800</pubDate>
       <itunes:duration>0:24:32</itunes:duration>
@@ -666,7 +666,7 @@
       <title>延伸閱讀 5｜Serial model：一步一步走的突觸</title>
       <description>同向往下、反向往上、最上層才翻轉的突觸，就是 serial model（linear chain）。為什麼它剛存的記憶幾乎讀不出來（初始 SNR 約 √N/M），卻又退得很慢（約 M² 步的擴散）？對照 cascade 與 Lahiri &amp; Ganguli 2013 的記憶上界。來源：Lahiri &amp; Ganguli 2013 NeurIPS；Leibold &amp; Kempter 2008 Cereb Cortex；Ben Dayan Rubin &amp; Fusi 2007；Fusi &amp; Abbott 2007；Barrett &amp; van Rossum 2008。</description>
       <itunes:summary>同向往下、反向往上、最上層才翻轉的突觸，就是 serial model（linear chain）。為什麼它剛存的記憶幾乎讀不出來（初始 SNR 約 √N/M），卻又退得很慢（約 M² 步的擴散）？對照 cascade 與 Lahiri &amp; Ganguli 2013 的記憶上界。來源：Lahiri &amp; Ganguli 2013 NeurIPS；Leibold &amp; Kempter 2008 Cereb Cortex；Ben Dayan Rubin &amp; Fusi 2007；Fusi &amp; Abbott 2007；Barrett &amp; van Rossum 2008。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-19-further-reading-05-serial-model.mp3" length="8031212" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-19-further-reading-05-serial-model.mp3" length="8031212" type="audio/mpeg" />
       <guid isPermaLink="false">ac118fc4-b4ca-4385-84c0-6807ce23207f</guid>
       <pubDate>Mon, 19 Oct 2026 13:45:00 +0800</pubDate>
       <itunes:duration>0:16:43</itunes:duration>
@@ -677,7 +677,7 @@
       <title>延伸閱讀 4｜EWC 與 Synaptic Intelligence：怎麼量一個權重有多重要</title>
       <description>依據 Kirkpatrick et al. (2017) PNAS 與 Zenke, Poole &amp; Ganguli (2017) ICML：兩者共用「重要性加權的二次彈簧」骨架；EWC 用終點的 Fisher 對角線，SI 沿學習路徑線上累積功勞。比較兩者並連回生物鞏固。附自我小測驗。</description>
       <itunes:summary>依據 Kirkpatrick et al. (2017) PNAS 與 Zenke, Poole &amp; Ganguli (2017) ICML：兩者共用「重要性加權的二次彈簧」骨架；EWC 用終點的 Fisher 對角線，SI 沿學習路徑線上累積功勞。比較兩者並連回生物鞏固。附自我小測驗。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-18-further-reading-04-ewc-si.mp3" length="9585068" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-18-further-reading-04-ewc-si.mp3" length="9585068" type="audio/mpeg" />
       <guid isPermaLink="false">cbf36257-d782-4b7f-bb9e-1686a97e17ba</guid>
       <pubDate>Sun, 18 Oct 2026 22:04:00 +0800</pubDate>
       <itunes:duration>0:19:58</itunes:duration>
@@ -688,7 +688,7 @@
       <title>延伸閱讀 3｜Benna &amp; Fusi：一串燒杯怎麼讓記憶活得更久</title>
       <description>依據 Benna &amp; Fusi (2016) Nature Neuroscience〈Computational principles of synaptic memory consolidation〉：為何最慢只能 1/√t 遺忘、連通燒杯的三步驟、快慢變數雙向交流帶來近線性的容量、metaplasticity 與 spacing effect。附自我小測驗。</description>
       <itunes:summary>依據 Benna &amp; Fusi (2016) Nature Neuroscience〈Computational principles of synaptic memory consolidation〉：為何最慢只能 1/√t 遺忘、連通燒杯的三步驟、快慢變數雙向交流帶來近線性的容量、metaplasticity 與 spacing effect。附自我小測驗。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-18-further-reading-03-benna-fusi.mp3" length="8621036" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-18-further-reading-03-benna-fusi.mp3" length="8621036" type="audio/mpeg" />
       <guid isPermaLink="false">3740e746-4cc1-4cf5-b613-1965f5da6634</guid>
       <pubDate>Sun, 18 Oct 2026 22:03:00 +0800</pubDate>
       <itunes:duration>0:17:57</itunes:duration>
@@ -699,7 +699,7 @@
       <title>延伸閱讀 2｜Synaptic tagging and capture：突觸怎麼決定要不要留下來</title>
       <description>依據 Frey &amp; Morris (1997) Nature 與 Clopath, Ziegler, Vasilaki, Büsing &amp; Gerstner (2008) PLoS Comput Biol 的 Tag-Trigger-Consolidation 模型：標記、蛋白質合成觸發門檻、雙穩態鞏固變數，以及「由神經元一起決定是否鞏固」。附自我小測驗。</description>
       <itunes:summary>依據 Frey &amp; Morris (1997) Nature 與 Clopath, Ziegler, Vasilaki, Büsing &amp; Gerstner (2008) PLoS Comput Biol 的 Tag-Trigger-Consolidation 模型：標記、蛋白質合成觸發門檻、雙穩態鞏固變數，以及「由神經元一起決定是否鞏固」。附自我小測驗。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-18-further-reading-02-tagging-capture.mp3" length="8534828" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-18-further-reading-02-tagging-capture.mp3" length="8534828" type="audio/mpeg" />
       <guid isPermaLink="false">75c54861-b11b-4015-815a-6f0b1f5712ff</guid>
       <pubDate>Sun, 18 Oct 2026 22:02:00 +0800</pubDate>
       <itunes:duration>0:17:46</itunes:duration>
@@ -710,7 +710,7 @@
       <title>延伸閱讀 1｜Engram：記憶存在哪裡</title>
       <description>依據 Josselyn &amp; Tonegawa (2020) Science 綜述〈Memory engrams: Recalling the past and imagining the future〉：engram 的四類證據、興奮性競爭的 allocation、記憶連結、silent engram 與 systems consolidation。附三點回顧與自我小測驗。</description>
       <itunes:summary>依據 Josselyn &amp; Tonegawa (2020) Science 綜述〈Memory engrams: Recalling the past and imagining the future〉：engram 的四類證據、興奮性競爭的 allocation、記憶連結、silent engram 與 systems consolidation。附三點回顧與自我小測驗。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-18-further-reading-01-engram.mp3" length="9245228" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-18-further-reading-01-engram.mp3" length="9245228" type="audio/mpeg" />
       <guid isPermaLink="false">ad458ee9-17e8-4408-b094-864ca58a367d</guid>
       <pubDate>Sun, 18 Oct 2026 22:01:00 +0800</pubDate>
       <itunes:duration>0:19:15</itunes:duration>
@@ -721,7 +721,7 @@
       <title>延伸閱讀 0｜系列導覽：從記憶痕跡到抗遺忘演算法</title>
       <description>延伸閱讀系列導覽（約 4 分鐘）：四集由淺入深的順序與彼此關係——Engram、Synaptic tagging and capture、Benna &amp; Fusi 燒杯模型、EWC 與 Synaptic Intelligence。建議依標題編號 0→4 收聽。</description>
       <itunes:summary>延伸閱讀系列導覽（約 4 分鐘）：四集由淺入深的順序與彼此關係——Engram、Synaptic tagging and capture、Benna &amp; Fusi 燒杯模型、EWC 與 Synaptic Intelligence。建議依標題編號 0→4 收聽。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-18-further-reading-00-roadmap.mp3" length="1998764" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-18-further-reading-00-roadmap.mp3" length="1998764" type="audio/mpeg" />
       <guid isPermaLink="false">205d673e-909d-425d-96f5-6df887e0efb2</guid>
       <pubDate>Sun, 18 Oct 2026 22:00:00 +0800</pubDate>
       <itunes:duration>0:04:09</itunes:duration>
@@ -732,7 +732,7 @@
       <title>[Cascade] 突觸如何用多個時間尺度延長記憶</title>
       <description>Fusi, Drew &amp; Abbott（2005）Cascade model 講解：有界突觸為何指數遺忘、simple binary synapse 的 SNR 與記憶壽命 ln(q√N)/(qr)、initial SNR 與 lifetime 的兩難；Cascade 的 metaplastic depth 與等比轉移機率如何疊出約 1/t 的冪律遺忘、容量比較、與 Benna–Fusi 模型對照、限制，以及 Zenke &amp; Laborieux §3.3／Figure 5 的位置；最後介紹如何用 simulate_forgetting.py 動手驗證。</description>
       <itunes:summary>Fusi, Drew &amp; Abbott（2005）Cascade model 講解：有界突觸為何指數遺忘、simple binary synapse 的 SNR 與記憶壽命 ln(q√N)/(qr)、initial SNR 與 lifetime 的兩難；Cascade 的 metaplastic depth 與等比轉移機率如何疊出約 1/t 的冪律遺忘、容量比較、與 Benna–Fusi 模型對照、限制，以及 Zenke &amp; Laborieux §3.3／Figure 5 的位置；最後介紹如何用 simulate_forgetting.py 動手驗證。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-14-cascade-model.mp3" length="13302380" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-14-cascade-model.mp3" length="13302380" type="audio/mpeg" />
       <guid isPermaLink="false">b5c8189a-e9df-4695-b2ab-5d60ee824db1</guid>
       <pubDate>Wed, 14 Oct 2026 16:30:00 +0800</pubDate>
       <itunes:duration>0:27:42</itunes:duration>
@@ -743,7 +743,7 @@
       <title>[Zenke 綜述] 初學者導讀</title>
       <description>Zenke &amp; Laborieux（2024）《Theories of synaptic memory consolidation and intelligent plasticity for continual learning》的初學者導讀語音版：stability–plasticity dilemma、Hopfield capacity、metaplasticity、Cascade 與 Benna–Fusi complex synapse、SNR forgetting curve。</description>
       <itunes:summary>Zenke &amp; Laborieux（2024）《Theories of synaptic memory consolidation and intelligent plasticity for continual learning》的初學者導讀語音版：stability–plasticity dilemma、Hopfield capacity、metaplasticity、Cascade 與 Benna–Fusi complex synapse、SNR forgetting curve。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-14-zenke-guide.mp3" length="33523436" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-10-14-zenke-guide.mp3" length="33523436" type="audio/mpeg" />
       <guid isPermaLink="false">5aa5e136-0527-47b5-af7b-9808f4415a31</guid>
       <pubDate>Wed, 14 Oct 2026 12:00:00 +0800</pubDate>
       <itunes:duration>1:09:50</itunes:duration>

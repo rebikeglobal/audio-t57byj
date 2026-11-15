@@ -289,7 +289,7 @@
   {
     "file": "2026-11-05-further-reading-39-dohare-2024.mp3",
     "title": "延伸閱讀 39｜學不動了：深度持續學習的可塑性喪失",
-    "description": "Dohare 等 2024：可塑性喪失與持續反向傳播。",
+    "description": "Dohare 等 2024 深度導讀：區分可塑性喪失與遺忘，核對 ImageNet、CIFAR 和強化學習考法；用效用、成熟期與重設算例理解 Continual Backpropagation，附三題自測。",
     "date": "2026-11-05T22:48:00+08:00",
     "guid": "4c99ff2b-4eae-4db9-bda9-13891171bb00"
   },
@@ -467,5 +467,19 @@
     "description": "導讀 NeurIPS 2019 CPG：用剪枝釋出空位、遮罩重用凍結權重，未達目標才擴充。拆解實驗、任務提示與儲存成本，附三題自測。",
     "date": "2026-11-15T14:47:50+08:00",
     "guid": "11610e74-eb0b-46af-ac0f-d6c291e4e7eb"
+  },
+  {
+    "file": "2026-11-15-adaptive-random-forest.mp3",
+    "date": "2026-11-15T23:01:47+08:00",
+    "guid": "8c369215-8f1d-5681-8b56-55e47b177c5a",
+    "title": "持續學習的三條路 1｜Adaptive Random Forest：環境變了，何時換掉舊模型？",
+    "description": "導讀 Gomes 等 2017：串流標籤、隨機子空間、警告與候補樹、漂移替換；以實驗與三題自測拆解適應速度、資源和舊環境回歸的限制。"
+  },
+  {
+    "file": "2026-11-15-siesta-wake-sleep.mp3",
+    "date": "2026-11-15T23:05:05+08:00",
+    "guid": "feb2461a-1cdb-5a9e-89ae-966742831276",
+    "title": "持續學習的三條路 3｜SIESTA：白天快速學，睡眠時用有限記憶整理",
+    "description": "導讀 Harun 等 TMLR 2023：清醒時快速更新分類頭，睡眠時重播有限壓縮記憶；拆解初始化、樣本更新預算、準確率與成本，附三題自測。"
   }
 ]
