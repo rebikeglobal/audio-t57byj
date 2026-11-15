@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>CPG｜先壓縮、再重用、按需成長：不遺忘的代價是什麼？</title>
+      <description>導讀 NeurIPS 2019 CPG：用剪枝釋出空位、遮罩重用凍結權重，未達目標才擴充。拆解實驗、任務提示與儲存成本，附三題自測。</description>
+      <itunes:summary>導讀 NeurIPS 2019 CPG：用剪枝釋出空位、遮罩重用凍結權重，未達目標才擴充。拆解實驗、任務提示與儲存成本，附三題自測。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-cpg.mp3" length="7892588" type="audio/mpeg"/>
+      <guid isPermaLink="false">11610e74-eb0b-46af-ac0f-d6c291e4e7eb</guid>
+      <pubDate>Sun, 15 Nov 2026 14:47:50 +0800</pubDate>
+      <itunes:duration>0:16:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>什麼值得記住 3｜未來用途不是驚訝：重要性如何學習、更新與驗證？</title>
       <description>以增益乘上需要與互動式機器人記憶預印本，拆解目標、用途估計、記憶操作和成本驗收；為何驚訝不等於有用。附三題自測。</description>
       <itunes:summary>以增益乘上需要與互動式機器人記憶預印本，拆解目標、用途估計、記憶操作和成本驗收；為何驚訝不等於有用。附三題自測。</itunes:summary>
