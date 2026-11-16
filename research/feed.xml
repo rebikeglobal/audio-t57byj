@@ -1,6 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
+    <item>
+      <title>單篇深讀｜EMR：還不知道要問什麼，怎麼學會留下有用的記憶？</title>
+      <description>精讀串流問答的外部記憶替換，分開訓練回饋與測試資訊，解析關係編碼、資源額度及位置偏差。</description>
+      <itunes:summary>精讀串流問答的外部記憶替換，分開訓練回饋與測試資訊，解析關係編碼、資源額度及位置偏差。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-16-single-paper-deep-read-emr-learned-retention.mp3" length="7676780" type="audio/mpeg"/>
+      <guid isPermaLink="false">814f4bb3-b4be-552d-931b-78ee241b1c60</guid>
+      <pubDate>Mon, 16 Nov 2026 19:56:54 +0800</pubDate>
+      <itunes:duration>0:15:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>單篇深讀｜Mattar與Daw：哪一次重播能改變下一個選擇？</title>
+      <description>精讀gain、need與一次backup的決策效用，解釋向前與反向重播，區分模型預測和生物因果。</description>
+      <itunes:summary>精讀gain、need與一次backup的決策效用，解釋向前與反向重播，區分模型預測和生物因果。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-16-single-paper-deep-read-mattar-daw-prioritized-access.mp3" length="7400492" type="audio/mpeg"/>
+      <guid isPermaLink="false">ae6f0d74-2851-5ee8-8bde-8a19b40f59ad</guid>
+      <pubDate>Mon, 16 Nov 2026 19:56:53 +0800</pubDate>
+      <itunes:duration>0:15:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item><title>持續學習的三條路 3｜SIESTA：白天快速學，睡眠時用有限記憶整理</title><description>導讀 Harun 等 TMLR 2023：清醒時快速更新分類頭，睡眠時重播有限壓縮記憶；拆解初始化、樣本更新預算、準確率與成本，附三題自測。</description><itunes:summary>導讀 Harun 等 TMLR 2023：清醒時快速更新分類頭，睡眠時重播有限壓縮記憶；拆解初始化、樣本更新預算、準確率與成本，附三題自測。</itunes:summary><enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-siesta-wake-sleep.mp3" length="7450028" type="audio/mpeg" /><guid isPermaLink="false">feb2461a-1cdb-5a9e-89ae-966742831276</guid><pubDate>Sun, 15 Nov 2026 23:05:05 +0800</pubDate><itunes:duration>0:15:31</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>持續學習的三條路 1｜Adaptive Random Forest：環境變了，何時換掉舊模型？</title><description>導讀 Gomes 等 2017：串流標籤、隨機子空間、警告與候補樹、漂移替換；以實驗與三題自測拆解適應速度、資源和舊環境回歸的限制。</description><itunes:summary>導讀 Gomes 等 2017：串流標籤、隨機子空間、警告與候補樹、漂移替換；以實驗與三題自測拆解適應速度、資源和舊環境回歸的限制。</itunes:summary><enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-15-adaptive-random-forest.mp3" length="7790060" type="audio/mpeg" /><guid isPermaLink="false">8c369215-8f1d-5681-8b56-55e47b177c5a</guid><pubDate>Sun, 15 Nov 2026 23:01:47 +0800</pubDate><itunes:duration>0:16:13</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><title>LJ 研究</title>
     <link>https://rebikeglobal.github.io/audio-t57byj/research/</link>
     <atom:link href="https://rebikeglobal.github.io/audio-t57byj/research/feed.xml" rel="self" type="application/rss+xml" />

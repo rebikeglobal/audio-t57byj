@@ -481,5 +481,19 @@
     "guid": "feb2461a-1cdb-5a9e-89ae-966742831276",
     "title": "持續學習的三條路 3｜SIESTA：白天快速學，睡眠時用有限記憶整理",
     "description": "導讀 Harun 等 TMLR 2023：清醒時快速更新分類頭，睡眠時重播有限壓縮記憶；拆解初始化、樣本更新預算、準確率與成本，附三題自測。"
+  },
+  {
+    "file": "2026-11-16-single-paper-deep-read-mattar-daw-prioritized-access.mp3",
+    "title": "單篇深讀｜Mattar與Daw：哪一次重播能改變下一個選擇？",
+    "description": "精讀gain、need與一次backup的決策效用，解釋向前與反向重播，區分模型預測和生物因果。",
+    "date": "2026-11-16T19:56:53+08:00",
+    "guid": "ae6f0d74-2851-5ee8-8bde-8a19b40f59ad"
+  },
+  {
+    "file": "2026-11-16-single-paper-deep-read-emr-learned-retention.mp3",
+    "title": "單篇深讀｜EMR：還不知道要問什麼，怎麼學會留下有用的記憶？",
+    "description": "精讀串流問答的外部記憶替換，分開訓練回饋與測試資訊，解析關係編碼、資源額度及位置偏差。",
+    "date": "2026-11-16T19:56:54+08:00",
+    "guid": "814f4bb3-b4be-552d-931b-78ee241b1c60"
   }
 ]
