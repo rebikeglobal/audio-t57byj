@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <item>
+    <item><title>Nested Learning：模型如何學會更新自己的記憶</title><description>Nested Learning 深度導讀：區分架構深度、更新頻率與步長，解析 CMS 與 Hope；分開正式會議版和擴充預印本的證據、成本與持續學習界線，附三題自測。</description><itunes:summary>Nested Learning 深度導讀：區分架構深度、更新頻率與步長，解析 CMS 與 Hope；分開正式會議版和擴充預印本的證據、成本與持續學習界線，附三題自測。</itunes:summary><enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-16-nested-learning.mp3" length="7533548" type="audio/mpeg" /><guid isPermaLink="false">19f35a63-e247-5c07-b589-d937aaedada4</guid><pubDate>Mon, 16 Nov 2026 20:35:01 +0800</pubDate><itunes:duration>0:15:41</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item>
       <title>單篇深讀｜EMR：還不知道要問什麼，怎麼學會留下有用的記憶？</title>
       <description>精讀串流問答的外部記憶替換，分開訓練回饋與測試資訊，解析關係編碼、資源額度及位置偏差。</description>
       <itunes:summary>精讀串流問答的外部記憶替換，分開訓練回饋與測試資訊，解析關係編碼、資源額度及位置偏差。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-16-single-paper-deep-read-emr-learned-retention.mp3" length="7676780" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-16-single-paper-deep-read-emr-learned-retention.mp3" length="7676780" type="audio/mpeg" />
       <guid isPermaLink="false">814f4bb3-b4be-552d-931b-78ee241b1c60</guid>
       <pubDate>Mon, 16 Nov 2026 19:56:54 +0800</pubDate>
       <itunes:duration>0:15:59</itunes:duration>
@@ -16,7 +16,7 @@
       <title>單篇深讀｜Mattar與Daw：哪一次重播能改變下一個選擇？</title>
       <description>精讀gain、need與一次backup的決策效用，解釋向前與反向重播，區分模型預測和生物因果。</description>
       <itunes:summary>精讀gain、need與一次backup的決策效用，解釋向前與反向重播，區分模型預測和生物因果。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-16-single-paper-deep-read-mattar-daw-prioritized-access.mp3" length="7400492" type="audio/mpeg"/>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-16-single-paper-deep-read-mattar-daw-prioritized-access.mp3" length="7400492" type="audio/mpeg" />
       <guid isPermaLink="false">ae6f0d74-2851-5ee8-8bde-8a19b40f59ad</guid>
       <pubDate>Mon, 16 Nov 2026 19:56:53 +0800</pubDate>
       <itunes:duration>0:15:24</itunes:duration>
@@ -410,13 +410,13 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>延伸閱讀 30｜快權重：讓神經網路記住剛剛發生的事</title>
-      <description>Ba 等 2016：會衰減的 Hebb 快權重，以及它與線性注意力的關係。</description>
-      <itunes:summary>Ba 等 2016：會衰減的 Hebb 快權重，以及它與線性注意力的關係。</itunes:summary>
-      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-30-fast-weights.mp3" length="3652076" type="audio/mpeg" />
+      <title>延伸閱讀 30｜快權重：把最近的模式寫進會衰減的聯想記憶</title>
+      <description>Ba 等 NIPS 2016 深入修訂：外積寫入、內層讀取與外層梯度的不同操作；以算例、正式實驗、資源成本與三題自測重新理解快權重。</description>
+      <itunes:summary>Ba 等 NIPS 2016 深入修訂：外積寫入、內層讀取與外層梯度的不同操作；以算例、正式實驗、資源成本與三題自測重新理解快權重。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-05-further-reading-30-fast-weights.mp3" length="7810796" type="audio/mpeg" />
       <guid isPermaLink="false">b2170417-3b4e-4a3e-b8aa-2acd44959440</guid>
       <pubDate>Thu, 05 Nov 2026 21:05:00 +0800</pubDate>
-      <itunes:duration>0:07:36</itunes:duration>
+      <itunes:duration>0:16:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
