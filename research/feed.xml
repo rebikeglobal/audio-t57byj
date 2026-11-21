@@ -1,6 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
+    <item>
+      <title>DuoCL：每筆都記帳，表徵慢慢改——算力受限的線上持續學習</title>
+      <description>精讀 DuoCL：快路徑累積每批統計，慢路徑適應特徵並對齊歷史摘要；拆解線上評測、算力與記憶體成本、有效結果和限制，附三題自測。</description>
+      <itunes:summary>精讀 DuoCL：快路徑累積每批統計，慢路徑適應特徵並對齊歷史摘要；拆解線上評測、算力與記憶體成本、有效結果和限制，附三題自測。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-21-radar-duocl.mp3" length="7537004" type="audio/mpeg"/>
+      <guid isPermaLink="false">3f124e47-d4f4-52d0-ad44-880220780979</guid>
+      <pubDate>Sat, 21 Nov 2026 09:30:11 +0800</pubDate>
+      <itunes:duration>0:15:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item><title>Nested Learning：模型如何學會更新自己的記憶</title><description>Nested Learning 深度導讀：區分架構深度、更新頻率與步長，解析 CMS 與 Hope；分開正式會議版和擴充預印本的證據、成本與持續學習界線，附三題自測。</description><itunes:summary>Nested Learning 深度導讀：區分架構深度、更新頻率與步長，解析 CMS 與 Hope；分開正式會議版和擴充預印本的證據、成本與持續學習界線，附三題自測。</itunes:summary><enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-16-nested-learning.mp3" length="7533548" type="audio/mpeg" /><guid isPermaLink="false">19f35a63-e247-5c07-b589-d937aaedada4</guid><pubDate>Mon, 16 Nov 2026 20:35:01 +0800</pubDate><itunes:duration>0:15:41</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item>
       <title>單篇深讀｜EMR：還不知道要問什麼，怎麼學會留下有用的記憶？</title>
       <description>精讀串流問答的外部記憶替換，分開訓練回饋與測試資訊，解析關係編碼、資源額度及位置偏差。</description>
