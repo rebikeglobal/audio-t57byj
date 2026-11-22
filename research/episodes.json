@@ -509,5 +509,19 @@
     "description": "精讀 DuoCL：快路徑累積每批統計，慢路徑適應特徵並對齊歷史摘要；拆解線上評測、算力與記憶體成本、有效結果和限制，附三題自測。",
     "date": "2026-11-21T09:30:11+08:00",
     "guid": "3f124e47-d4f4-52d0-ad44-880220780979"
+  },
+  {
+    "file": "2026-11-22-energy-modularity-cortical-energy-budget.mp3",
+    "title": "大腦的電費，為什麼大多花在傳訊？",
+    "description": "精讀Levy與Calvert：拆開ATP與葡萄糖能量帳、35倍的假設與事件數最佳化，保留公式驗算差異，附三題自測。",
+    "date": "2026-11-22T23:14:18+08:00",
+    "guid": "4b3964b8-8718-5cbf-bd2b-286456c680be"
+  },
+  {
+    "file": "2026-11-22-energy-modularity-task-structured-modularity.mp3",
+    "title": "多任務如何長出模組？從人工網路到腦架構的證據與界線",
+    "description": "精讀Wu等：任務、容量與連線生長如何塑造RNN模組，查核資料供應、作者碼和腦圖統計比較，附三題自測。",
+    "date": "2026-11-22T23:14:19+08:00",
+    "guid": "27c3ee84-1651-5b4e-b33f-e7f78732c539"
   }
 ]

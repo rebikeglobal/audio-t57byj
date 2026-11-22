@@ -2,6 +2,28 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>多任務如何長出模組？從人工網路到腦架構的證據與界線</title>
+      <description>精讀Wu等：任務、容量與連線生長如何塑造RNN模組，查核資料供應、作者碼和腦圖統計比較，附三題自測。</description>
+      <itunes:summary>精讀Wu等：任務、容量與連線生長如何塑造RNN模組，查核資料供應、作者碼和腦圖統計比較，附三題自測。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-22-energy-modularity-task-structured-modularity.mp3" length="7271276" type="audio/mpeg"/>
+      <guid isPermaLink="false">27c3ee84-1651-5b4e-b33f-e7f78732c539</guid>
+      <pubDate>Sun, 22 Nov 2026 23:14:19 +0800</pubDate>
+      <itunes:duration>0:15:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>大腦的電費，為什麼大多花在傳訊？</title>
+      <description>精讀Levy與Calvert：拆開ATP與葡萄糖能量帳、35倍的假設與事件數最佳化，保留公式驗算差異，附三題自測。</description>
+      <itunes:summary>精讀Levy與Calvert：拆開ATP與葡萄糖能量帳、35倍的假設與事件數最佳化，保留公式驗算差異，附三題自測。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-22-energy-modularity-cortical-energy-budget.mp3" length="7372652" type="audio/mpeg"/>
+      <guid isPermaLink="false">4b3964b8-8718-5cbf-bd2b-286456c680be</guid>
+      <pubDate>Sun, 22 Nov 2026 23:14:18 +0800</pubDate>
+      <itunes:duration>0:15:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>DuoCL：每筆都記帳，表徵慢慢改——算力受限的線上持續學習</title>
       <description>精讀 DuoCL：快路徑累積每批統計，慢路徑適應特徵並對齊歷史摘要；拆解線上評測、算力與記憶體成本、有效結果和限制，附三題自測。</description>
       <itunes:summary>精讀 DuoCL：快路徑累積每批統計，慢路徑適應特徵並對齊歷史摘要；拆解線上評測、算力與記憶體成本、有效結果和限制，附三題自測。</itunes:summary>
