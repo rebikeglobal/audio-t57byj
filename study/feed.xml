@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>了解大腦｜從靜止膜電位到第一個尖峰</title>
+      <description>用離子濃度差解釋靜止膜電位，追蹤動作電位的升降，再弄懂跳躍式傳導。前半中文、後半英文，各有三題概念自測。</description>
+      <itunes:summary>用離子濃度差解釋靜止膜電位，追蹤動作電位的升降，再弄懂跳躍式傳導。前半中文、後半英文，各有三題概念自測。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-11-25-understanding-the-brain.mp3" length="4921366" type="audio/mpeg"/>
+      <guid isPermaLink="false">d4b2efd8-5afd-4987-b1c9-ddbafe315eb8</guid>
+      <pubDate>Wed, 25 Nov 2026 12:50:25 +0800</pubDate>
+      <itunes:duration>0:10:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>生化 Ch. 10｜核苷酸與核酸：從一顆糖到一整條遺傳訊息</title>
       <description>從核苷與核苷酸的差別出發，練習反向互補與 A260 濃度換算，再比較 DNA 解鏈與 RNA 骨架斷裂。附三題原創自測。</description>
       <itunes:summary>從核苷與核苷酸的差別出發，練習反向互補與 A260 濃度換算，再比較 DNA 解鏈與 RNA 骨架斷裂。附三題原創自測。</itunes:summary>
