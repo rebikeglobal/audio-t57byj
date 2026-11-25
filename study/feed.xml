@@ -14,6 +14,17 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>生化 Ch. 10｜核苷酸與核酸：從一顆糖到一整條遺傳訊息</title>
+      <description>從核苷與核苷酸的差別出發，練習反向互補與 A260 濃度換算，再比較 DNA 解鏈與 RNA 骨架斷裂。附三題原創自測。</description>
+      <itunes:summary>從核苷與核苷酸的差別出發，練習反向互補與 A260 濃度換算，再比較 DNA 解鏈與 RNA 骨架斷裂。附三題原創自測。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/study/episodes/2026-11-25-ch10-nucleotides.mp3" length="9199680" type="audio/mpeg"/>
+      <guid isPermaLink="false">d89b7851-aafd-4245-9a67-c433732649ae</guid>
+      <pubDate>Wed, 25 Nov 2026 11:00:27 +0800</pubDate>
+      <itunes:duration>0:15:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>生化 Ch15 課堂補充二：肝醣磷酸化酶與血紅素</title>
       <description>Ch15 後半：乙醯化、肝醣磷酸化酶的兩種調控與 cAMP 級聯、血紅素協同結合與 Bohr 效應、HbF、HbS。</description>
       <itunes:summary>Ch15 後半：乙醯化、肝醣磷酸化酶的兩種調控與 cAMP 級聯、血紅素協同結合與 Bohr 效應、HbF、HbS。</itunes:summary>
