@@ -2,6 +2,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>模型忘了，還是答不出來？持續學習的三種評估介面</title>
+      <description>語言模型答錯舊題，究竟是內部特徵變了，還是輸出頭讀不出來？用一個四點算例拆開部署表現、監督式探針與主幹可分性，再看只微調輸出頭能補回多少，以及為什麼前向增益不等於學習速度。</description>
+      <itunes:summary>語言模型答錯舊題，究竟是內部特徵變了，還是輸出頭讀不出來？用一個四點算例拆開部署表現、監督式探針與主幹可分性，再看只微調輸出頭能補回多少，以及為什麼前向增益不等於學習速度。</itunes:summary>
+      <enclosure url="https://rebikeglobal.github.io/audio-t57byj/research/episodes/2026-11-28-radar-three-interface-cl.mp3" length="8389484" type="audio/mpeg"/>
+      <guid isPermaLink="false">38b8a620-49a2-5ae0-a6c5-70c99d6ff47d</guid>
+      <pubDate>Sat, 28 Nov 2026 09:29:56 +0800</pubDate>
+      <itunes:duration>0:17:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>腦迴路 01｜回返不是持續學習</title>
       <description>從視覺皮質、丘腦與回返模型出發，分清反覆推論和跨試次學習：多算幾輪改變了什麼，又有哪些改變能留下來？</description>
       <itunes:summary>從視覺皮質、丘腦與回返模型出發，分清反覆推論和跨試次學習：多算幾輪改變了什麼，又有哪些改變能留下來？</itunes:summary>
